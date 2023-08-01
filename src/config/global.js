@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Evaluación y análisis de la huella hídrica',
+    descripcionCurso:
+      'En este componente formativo se abordan temáticas relacionadas con la información sobre el estado y dinámica de las aguas en el país establecida el estudio nacional del agua realizado por el IDEAM, además se describirán las metodologías y fórmulas para calcular la huella hídrica, el análisis de sostenibilidad y las medidas existentes para reducir y mitigar la huella',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,27 +32,53 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Estudio nacional del agua',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Cuantificación de la huella hídrica',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Huella hídrica del sector productivo.',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Huella hídrica de una etapa del proceso.',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Huella hídrica de un producto',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Huella hídrica de un consumidor o grupo de consumidores',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Huella hídrica de un área geográfica',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Análisis de sostenibilidad de la huella hídrica',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Medidas para reducir y mitigar la huella hídrica.',
         desarrolloContenidos: true,
       },
     ],
