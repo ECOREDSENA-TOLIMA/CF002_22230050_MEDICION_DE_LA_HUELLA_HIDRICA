@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="199" viewBox="0 0 1240 199">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_316941" data-name="Rectángulo 316941" width="1240" height="199" rx="20" transform="translate(180 3303)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_316948" data-name="Rectángulo 316948" width="1238.97" height="269" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_316943" data-name="Rectángulo 316943" width="1238.974" height="221.211" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="1.216" x2="0.001" y2="1.216" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1f5fe"/>
+      <stop offset="1" stop-color="#b3e5fc"/>
+    </linearGradient>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_245596" data-name="Trazado 245596" d="M624.365,171.085C425.917,200.057,233.909,229.031,0,179.129V269H1238.974V154.533a1489.922,1489.922,0,0,0-235.922-18.569c-135.784,0-258.4,17.559-378.687,35.121" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" y1="1" x2="0.001" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#039be5"/>
+      <stop offset="1" stop-color="#81d4fa"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_316947" data-name="Rectángulo 316947" width="1238.974" height="269" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_316946" data-name="Rectángulo 316946" width="1238.97" height="124.464" transform="translate(0 144.536)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Trazado_245597" data-name="Trazado 245597" d="M852.58,189.193c-154.116,22.53-193.281,18.435-424.556-23.935C213.071,125.886,79.46,145.456,0,200.021V269H1238.974V178.172c-60.065-12.817-150.384-23.479-386.394,11.021" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" y1="1" x2="0.001" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4fc3f7"/>
+      <stop offset="1" stop-color="#b3e5fc"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_81" data-name="Enmascarar grupo 81" transform="translate(-180 -3303)" clip-path="url(#clip-path)">
+    <g id="Grupo_244254" data-name="Grupo 244254" transform="translate(180.515 3239)" opacity="0.35">
+      <g id="Grupo_244253" data-name="Grupo 244253" clip-path="url(#clip-path-2)">
+        <g id="Grupo_244243" data-name="Grupo 244243">
+          <g id="Grupo_244242" data-name="Grupo 244242" clip-path="url(#clip-path-3)">
+            <rect id="Rectángulo_316942" data-name="Rectángulo 316942" width="1238.974" height="221.211" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Grupo_244245" data-name="Grupo 244245">
+          <g id="Grupo_244244" data-name="Grupo 244244" clip-path="url(#clip-path-4)">
+            <rect id="Rectángulo_316944" data-name="Rectángulo 316944" width="1238.974" height="133.039" transform="translate(0 135.961)" fill="url(#linear-gradient-2)"/>
+          </g>
+        </g>
+        <g id="Grupo_244252" data-name="Grupo 244252">
+          <g id="Grupo_244251" data-name="Grupo 244251" clip-path="url(#clip-path-5)">
+            <g id="Grupo_244250" data-name="Grupo 244250" style="mix-blend-mode: multiply;isolation: isolate">
+              <g id="Grupo_244249" data-name="Grupo 244249">
+                <g id="Grupo_244248" data-name="Grupo 244248" clip-path="url(#clip-path-6)">
+                  <g id="Grupo_244247" data-name="Grupo 244247">
+                    <g id="Grupo_244246" data-name="Grupo 244246" clip-path="url(#clip-path-7)">
+                      <rect id="Rectángulo_316945" data-name="Rectángulo 316945" width="1238.974" height="143.114" transform="translate(0 125.886)" fill="url(#linear-gradient-3)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
