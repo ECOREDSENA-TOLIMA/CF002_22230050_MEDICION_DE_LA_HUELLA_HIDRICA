@@ -27,7 +27,7 @@
     p.mt-5 Además, aunado a lo anterior, debe existir la prevención y evaluación de riesgos y alteraciones de las condiciones naturales por actividades antropológicas, para así lograr definir estrategias integrales de conservación de los sistemas hídricos, los cuales, incluyan la participación de los diversos sectores e instituciones. Para lo cual, el Estudio Nacional del Agua (ENA), estableció un modelo básico de evaluación integrada del agua como se observa a continuación en el siguiente video: 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/68FI7R5GbVQ" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mt-5 Según lo visto, el modelo básico de evaluación integrada del agua, tiene en cuenta  las características y procesos del agua, es decir, el ciclo del agua, para a raíz de esta identificación lograr conocer las afectaciones generadas por el uso y contaminación en los procesos de transformación, lo que permite determinar los efectos e impactos sobre el recurso hídrico y así lograr establecer políticas orientadas a la gestión integral del recurso hídrico.
 
     .row.p-5.justify-content-center(data-aos="fade-right")
