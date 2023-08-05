@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="104" viewBox="0 0 820 104">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_317187" data-name="Rectángulo 317187" width="221.025" height="60.543" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_245334" data-name="Grupo 245334" transform="translate(-390 -6501)">
+    <rect id="Rectángulo_317194" data-name="Rectángulo 317194" width="820" height="104" rx="52" transform="translate(390 6501)" fill="#fff"/>
+    <g id="Grupo_244628" data-name="Grupo 244628" transform="translate(689 6523)">
+      <g id="Grupo_244625" data-name="Grupo 244625">
+        <g id="Grupo_244624" data-name="Grupo 244624" clip-path="url(#clip-path)">
+          <text id="HHG_" data-name="HHG =" transform="translate(0.774 35.043)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">HH</tspan><tspan y="0" letter-spacing="-0.025em">G </tspan><tspan y="0">=</tspan></text>
+          <text id="L" transform="translate(146.286 19.947)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">L</tspan></text>
+          <text id="C_max_-_C_nat" data-name="C max - C nat" transform="translate(87.414 53.187)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">C m</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0" letter-spacing="-0.024em">x</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> - </tspan><tspan y="0" letter-spacing="-0.024em">C</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> n</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0">t</tspan></text>
+        </g>
+      </g>
+      <path id="Trazado_246130" data-name="Trazado 246130" d="M85.305,26.662h0Z" fill="#12263f"/>
+      <g id="Grupo_244627" data-name="Grupo 244627">
+        <g id="Grupo_244626" data-name="Grupo 244626" clip-path="url(#clip-path)">
+          <line id="Línea_617" data-name="Línea 617" x2="135.72" transform="translate(85.305 26.662)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

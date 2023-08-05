@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="651.879" height="289.281" viewBox="0 0 651.879 289.281">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_317219" data-name="Rectángulo 317219" width="651.879" height="289.281" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_245335" data-name="Grupo 245335" transform="translate(-474 -9326.3)">
+    <g id="Grupo_244670" data-name="Grupo 244670" transform="translate(474 9326.3)">
+      <rect id="Rectángulo_317211" data-name="Rectángulo 317211" width="113.468" height="56.057" transform="translate(438.076 155.795)" fill="#fff59d"/>
+      <rect id="Rectángulo_317212" data-name="Rectángulo 317212" width="113.468" height="56.057" transform="translate(438.076 155.795)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectángulo_317213" data-name="Rectángulo 317213" width="113.468" height="56.057" transform="translate(169.938 155.661)" fill="#baeaff"/>
+      <rect id="Rectángulo_317214" data-name="Rectángulo 317214" width="113.468" height="56.057" transform="translate(169.938 155.661)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectángulo_317215" data-name="Rectángulo 317215" width="113.468" height="56.057" transform="translate(169.938 76.044)" fill="#baeaff"/>
+      <rect id="Rectángulo_317216" data-name="Rectángulo 317216" width="113.468" height="56.057" transform="translate(169.938 76.044)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectángulo_317217" data-name="Rectángulo 317217" width="113.467" height="56.057" transform="translate(0.5 76.044)" fill="#a5d6a7"/>
+      <g id="Grupo_244653" data-name="Grupo 244653">
+        <g id="Grupo_244652" data-name="Grupo 244652" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_317218" data-name="Rectángulo 317218" width="113.468" height="56.057" transform="translate(0.5 76.044)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <rect id="Rectángulo_317220" data-name="Rectángulo 317220" width="113.467" height="56.057" transform="translate(0.5 155.661)" fill="#a5d6a7"/>
+      <g id="Grupo_244655" data-name="Grupo 244655">
+        <g id="Grupo_244654" data-name="Grupo 244654" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_317221" data-name="Rectángulo 317221" width="113.468" height="56.057" transform="translate(0.5 155.661)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <text id="Proceso_s_1" data-name="Proceso s = 1" transform="translate(11.678 108.708)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">P</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0" letter-spacing="-0.025em">o </tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">= </tspan><tspan y="0">1</tspan></text>
+      <text id="Proceso_s_3" data-name="Proceso s = 3" transform="translate(11.214 187.812)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">P</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0" letter-spacing="-0.025em">o </tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">= </tspan><tspan y="0">3</tspan></text>
+      <g id="Grupo_244657" data-name="Grupo 244657">
+        <g id="Grupo_244656" data-name="Grupo 244656" clip-path="url(#clip-path)">
+          <text id="HH_" data-name="HH " transform="translate(198.261 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">HH</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+      <text id="proc" transform="translate(223.264 284.945)" fill="#12263f" font-size="10" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">c</tspan></text>
+      <g id="Grupo_244659" data-name="Grupo 244659">
+        <g id="Grupo_244658" data-name="Grupo 244658" clip-path="url(#clip-path)">
+          <text id="_" data-name=" " transform="translate(241.698 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+          <text id="_2" data-name="[" transform="translate(245.266 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">[</tspan></text>
+          <text id="_4" data-name="4" transform="translate(249.106 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+          <text id="_3" data-name="]" transform="translate(257.682 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+          <text id="HH_2" data-name="HH " transform="translate(25.458 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">HH</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+      <text id="proc-2" data-name="proc" transform="translate(50.464 284.945)" fill="#12263f" font-size="10" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">c</tspan></text>
+      <g id="Grupo_244661" data-name="Grupo 244661">
+        <g id="Grupo_244660" data-name="Grupo 244660" clip-path="url(#clip-path)">
+          <text id="_4-2" data-name=" " transform="translate(68.898 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+          <text id="_5" data-name="[" transform="translate(72.466 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">[</tspan></text>
+          <text id="_3-2" data-name="3" transform="translate(76.306 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+          <text id="_6" data-name="]" transform="translate(84.882 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+          <text id="HH_3" data-name="HH " transform="translate(469.441 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">HH</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+      <text id="proc-3" data-name="proc" transform="translate(494.443 284.945)" fill="#12263f" font-size="10" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">c</tspan></text>
+      <g id="Grupo_244663" data-name="Grupo 244663">
+        <g id="Grupo_244662" data-name="Grupo 244662" clip-path="url(#clip-path)">
+          <text id="_7" data-name=" " transform="translate(512.877 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+          <text id="_8" data-name="[" transform="translate(516.445 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">[</tspan></text>
+          <text id="k" transform="translate(520.285 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">k</tspan></text>
+          <text id="_9" data-name="]" transform="translate(527.997 284.945)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+        </g>
+      </g>
+      <text id="P" transform="translate(615.695 188.3)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">P</tspan></text>
+      <text id="_10" data-name=" " transform="translate(625.167 188.3)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+      <text id="_11" data-name="[ " transform="translate(628.735 188.3)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">[</tspan><tspan y="0"> </tspan></text>
+      <text id="p_" data-name="p " transform="translate(636.144 188.3)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0"> </tspan></text>
+      <g id="Grupo_244665" data-name="Grupo 244665">
+        <g id="Grupo_244664" data-name="Grupo 244664" clip-path="url(#clip-path)">
+          <text id="_12" data-name="]" transform="translate(648.037 188.3)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+          <text id="HH_4" data-name="HH " transform="translate(199.125 15.228)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">HH</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+      <text id="proc-4" data-name="proc" transform="translate(224.124 15.224)" fill="#12263f" font-size="10" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">c</tspan></text>
+      <g id="Grupo_244667" data-name="Grupo 244667">
+        <g id="Grupo_244666" data-name="Grupo 244666" clip-path="url(#clip-path)">
+          <text id="_13" data-name=" " transform="translate(242.558 15.224)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+          <text id="_14" data-name="[" transform="translate(246.126 15.224)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">[</tspan></text>
+          <text id="_2-2" data-name="2" transform="translate(249.966 15.224)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+          <text id="_15" data-name="]" transform="translate(258.542 15.224)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+          <text id="HH_5" data-name="HH " transform="translate(25.534 13.688)" fill="#12263f" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">HH</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+      <text id="proc-5" data-name="proc" transform="translate(50.541 13.687)" fill="#12263f" font-size="10" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">c</tspan></text>
+      <g id="Grupo_244669" data-name="Grupo 244669">
+        <g id="Grupo_244668" data-name="Grupo 244668" clip-path="url(#clip-path)">
+          <text id="_16" data-name=" " transform="translate(68.975 13.687)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"> </tspan></text>
+          <text id="_17" data-name="[" transform="translate(72.542 13.687)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">[</tspan></text>
+          <text id="_1" data-name="1" transform="translate(76.383 13.687)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+          <text id="_18" data-name="]" transform="translate(84.958 13.687)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">]</tspan></text>
+        </g>
+      </g>
+      <text id="Proceso_s_2" data-name="Proceso s = 2" transform="translate(181.193 107.869)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">P</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0" letter-spacing="-0.025em">o </tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">= </tspan><tspan y="0">2</tspan></text>
+      <text id="Proceso_s_4" data-name="Proceso s = 4" transform="translate(180.313 187.981)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">P</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0" letter-spacing="-0.025em">o </tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">= </tspan><tspan y="0">4</tspan></text>
+      <text id="Proceso_s_k" data-name="Proceso s = k" transform="translate(449.241 188.141)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">P</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0" letter-spacing="-0.025em">o </tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">= </tspan><tspan y="0">k</tspan></text>
+      <line id="Línea_623" data-name="Línea 623" y2="54.97" transform="translate(57.119 21.074)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246136" data-name="Trazado 246136" d="M49.294,62.266,57.12,75.821l7.826-13.555" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_624" data-name="Línea 624" y1="54.97" transform="translate(57.12 211.717)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246137" data-name="Trazado 246137" d="M64.946,225.5,57.12,211.941,49.294,225.5" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_625" data-name="Línea 625" y2="54.97" transform="translate(226.671 21.074)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246138" data-name="Trazado 246138" d="M218.846,62.266l7.826,13.555L234.5,62.266" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_626" data-name="Línea 626" y1="54.97" transform="translate(226.672 211.717)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246139" data-name="Trazado 246139" d="M234.5,225.5l-7.826-13.555L218.846,225.5" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_627" data-name="Línea 627" y1="54.97" transform="translate(496.35 211.852)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246140" data-name="Trazado 246140" d="M504.176,225.63l-7.826-13.555-7.826,13.555" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_628" data-name="Línea 628" x2="5" transform="translate(283.936 183.908)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_629" data-name="Línea 629" x2="129.454" transform="translate(298.525 183.908)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="9.589 9.589"/>
+      <line id="Línea_630" data-name="Línea 630" x2="5" transform="translate(432.773 183.908)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246141" data-name="Trazado 246141" d="M423.995,191.734l13.555-7.826-13.555-7.826" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_631" data-name="Línea 631" x2="54.97" transform="translate(551.544 183.908)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246142" data-name="Trazado 246142" d="M592.735,191.734l13.555-7.826-13.555-7.826" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_632" data-name="Línea 632" x2="54.97" transform="translate(113.968 183.908)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246143" data-name="Trazado 246143" d="M155.159,191.734l13.555-7.826-13.555-7.826" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_633" data-name="Línea 633" x2="54.97" transform="translate(113.968 103.826)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246144" data-name="Trazado 246144" d="M155.159,111.652l13.555-7.826L155.159,96" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_246145" data-name="Trazado 246145" d="M283.406,103.826h68.728v80" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+    </g>
+  </g>
+</svg>
