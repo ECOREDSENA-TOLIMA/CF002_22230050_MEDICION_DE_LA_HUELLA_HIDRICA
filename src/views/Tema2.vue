@@ -16,9 +16,6 @@
           p(data-aos="fade-up" style="overflow-x: hidden !important") Existen diversas metodologías para la cuantificación de la huella hídrica, entre las que se encuentra la de la Water Footprint Network (WFT) que tiene un enfoque volumétrico que permite cuantificar el volumen de agua usado y con este determinar el impacto humano sobre los recursos globales de agua dulce y aporta una base para formular las estrategias enfocadas a minimizar los impactos negativos generados sobre el agua.
           .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
             p.mb-2.py-2(style="overflow-x: hidden !important") La otra metodología es la ISO 14046 del 2014 que se basa en el análisis del ciclo de vida, siendo útil para realizar estudios relacionados con la sostenibilidad ambiental de un producto o una organización, ya que además de contabilizar el agua consumida, realiza una evaluación de los impactos medioambientales relacionados con dicho consumo, a través de distintos indicadores relacionados con el agua.
-    .row.align-items-center.my-5.col-lg-8.m-auto  
-        .cajon.color-primario.p-4.mt-0.col-lg-12.m-auto.pb-1(style="background-color:#f0f8ff;")
-          p.mb-0.py-3(data-aos="fade-up") La huella hídrica es una de las herramientas que ayuda a detectar los impactos y evaluar los riesgos asociados al uso del agua y hábitos de consumo.
 
     .row.py-3.justify-content-center(data-aos="fade-right")
       .col-lg-12        
@@ -28,6 +25,9 @@
               img.m-3(src='@/assets/curso/temas/tema2/2.svg', style="width:80px")
             .col-sm-12.col-lg-11
               p.m-2.py-1 La selección de la metodología empleada para la cuantificación de la huella hídrica, depende de diversos factores, entre los que se encuentran el acceso y disponibilidad de la información requerida, la población al que va dirigido, el tipo de agua empleada y extraída, el grado de detalle que se quiere alcanzar con el estudio; todo esto define como sería el procedimiento de cuantificación
+
+      p.mb-0.py-5(data-aos="fade-up") Siendo posible emplear en el proceso de cuantificación de la huella hídrica más de una metodología, ya que estas son compatibles y complementarias, permitiendo obtener un estudio más detallado, mediante herramientas que permiten desarrollar una evaluación y a su vez una gestión sostenible de este recurso natural, en diferentes campos de aplicación.
+    
         Separador.mt-0
 
 
