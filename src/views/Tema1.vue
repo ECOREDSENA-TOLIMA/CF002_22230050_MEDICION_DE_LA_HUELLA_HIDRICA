@@ -43,11 +43,45 @@
             .col-sm-12.col-lg-6
               p.m-2.py-1 Para lograr determinar el estado de recurso hídrico en el país, el IDEAM en el documento del Estudio Nacional del Agua - ENA, emplea unos indicadores tales como: la aridez, regulación hídrica, rendimiento de sedimentos y sequía que permiten establecer el estado natural del recurso y, otros indicadores como los de estado de calidad y presión por contaminación, los de presión por uso del agua y los de riesgo que definen las variaciones debido a la intervención antrópica y sus efectos de carácter parcial o total y temporal o definitivo en la calidad y cantidad del agua, esto facilita explicar la relación entre oferta y demanda del agua tanto superficial como subterránea, como lo describe el gráfico de Sistema de indicadores hídricos a continuación:
 
-    .row.justify-content-center(data-aos="fade-right")
-      .col-lg-8
-        figure
-          .row.justify-content-center(data-aos="fade-right")
-            img(src="@/assets/curso/temas/tema1/6.svg" data-aos="zoom-in-up" alt= " ")
+    figure.pb-4
+      .row.justify-content-center(data-aos="fade-right")
+        .col-lg-8
+          ImagenInfografica.mb-0(style="color:transparent;")
+            template(v-slot:imagen)
+              figure
+              img(src="@/assets/curso/temas/tema1/6.svg" data-aos="zoom-in-up" alt="“Sistema de indicadores hídricos”. En esta infografía se muestran los diferentes indicadores hídricos tales como: ⦁ Indicadores de sistemas hídricos: compuesto por el índice de aridez, índice de retención y regulación hídrica, índice de sequia y precipitación, índice de rendimientos medio sedimentos. ⦁ Indicadores de intervención antrópica: compuesto a su vez por los siguientes indicadores: ⦁ Indicadores de riesgo: Índice de Vulnerabilidad por Desabastecimiento ⦁ Indicador de presión por uso de agua: índice de Uso del Agua Superficial, índice de Presión Hídrica al Ecosistema, índice de Agua no Retornada a la Cuenca, índice de Eficiencia en el Uso del Agua. ⦁ Indicadores de estado de calidad y presión por contaminación: índice de Calidad de Agua, índice de Alteración Potencial a la Calidad del Agua.")
+            .tarjeta.color-adicional-2.p-3(x="9.5%" y="47.5%" numero="1"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IA:]  índice de aridez
+
+            .tarjeta.color-adicional-2.p-3(x="2.5%" y="21.5%" numero="2"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IRH:]  Índice de Retención y Regulación Hídrica
+
+            .tarjeta.color-adicional-2.p-3(x="21.5%" y="2%" numero="3"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b SPI:] Índice de Sequía y precipitación
+
+            .tarjeta.color-adicional-2.p-3(x="48%" y="9%" numero="4"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IRS:] Índice de Rendimiento medio Sedimentos
+
+            .tarjeta.color-adicional-2.p-3(x="57%" y="11.5%" numero="5"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IUA:] Índice de Uso del Agua Superficia
+            
+            .tarjeta.color-adicional-2.p-3(x="80.5%" y="5%" numero="6"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IPHE:] Índice de Presión Hídrica al Ecosistema 
+            
+            .tarjeta.color-adicional-2.p-3(x="98%" y="22.5%" numero="7"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IARC:] Índice de Agua no Retornada a la Cuenca
+            
+            .tarjeta.color-adicional-2.p-3(x="91.5%" y="45.5%" numero="8"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IEUA:] Índice de Eficiencia en el Uso del Agua
+
+            .tarjeta.color-adicional-2.p-3(x="97.5%" y="80.5%" numero="9"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IACAL:] Índice de Alteración Potencial a la Calidad del Agua
+            
+            .tarjeta.color-adicional-2.p-3(x="80.5%" y="98%" numero="10"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b ICA:] Índice de Calidad de Agua
+            
+            .tarjeta.color-adicional-2.p-3(x="12%" y="91.5%" numero="11"  style="background-color:#12263F;")
+              p.mb-0(style="color:#FFF;") #[b IVH:] Índice de Vulnerabilidad por Desabastecimiento
 
 
     p.mt-5 En conclusión, se tiene que gran variedad de factores naturales como los antrópicos afectan la disponibilidad, calidad y cantidad del recurso hídrico, teniendo gran influencia sobre el nivel de afectación y la vulnerabilidad de los sistemas hídricos, así como la gestión que se realice.
