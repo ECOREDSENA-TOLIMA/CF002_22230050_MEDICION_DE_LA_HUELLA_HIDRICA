@@ -46,7 +46,7 @@
       .row.justify-content-center.mb-5(data-aos="fade-right")        
         .col-sm-12.col-lg-10
           .titulo-sexto.mb-0.color-secundario.mb-1
-            p.mb-0 #[b Figura 2] 
+            p.mb-0 #[b Figura 1] 
               i Componentes de la huella hídrica 
 
       .row.align-items-center.my-0.col-lg-10.m-auto.mb-5        
@@ -119,6 +119,164 @@
       .col-auto
         figure
           img(src='@/assets/curso/temas/tema2/8.svg').m-auto(data-aos="fade-right")   
+
+    .cajon.color-acento-contenido.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
+      p.mb-0(data-aos="fade-up") Las tablas a continuación muestran la Estimación de la huella hídrica de la producción agrícola en Colombia, Huella azul anual para el sector agrícola y la Huella verde anual para el sector agrícola
+
+    .row.justify-content-center.m-5
+      .col-auto
+        a.anexo(:href="obtenerLink('/downloads/Anexo1_EstimacionProduccionHuellaHidrica_Tabla.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            b #[ Anexo. ]  
+            | Estimación Producción Huella Hídrica
+
+    Separador.mt-5  
+    
+    .cont_2_2(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_2_2 2.2 Huella hídrica de una etapa del proceso.  
+
+    .row.align-items-center.my-3.col-lg-12.m-auto        
+        .col-auto
+          figure
+            img(src='@/assets/curso/temas/tema2/9.svg').m-auto(data-aos="fade-right")
+        .col
+          p(data-aos="fade-up" style="overflow-x: hidden !important") La huella hídrica de una etapa del proceso, tiene una importancia singular, debido a que su cuantificación es la base inicial de donde se desprende el cálculo de muchas otras huellas hídricas, ya que al sumar todas las huellas hídricas de la etapa de un proceso se puede obtener la huella hídrica del producto, y al sumar las huellas hídricas del producto se puede obtener ya sea la de un productor (si se suma las huellas hídricas de producto de todos los productos elaborados en la empresa) o la de un consumidor (si se suma las huellas hídricas de producto de todos los productos consumidos); pero también se puede obtener la huella hídrica dentro de un área geográficamente delimitada si se suman las huellas hídricas de proceso de todos los procesos que tienen lugar en el área.
+          .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
+            p.mb-2.py-2(style="overflow-x: hidden !important") Sin embargo se debe tener presente no caer en el error de realizar una doble cuantificación de la huella hídrica al sumar productos intermedios, lo que no sería una doble cuantificación es la suma de huellas hídricas de productos finales, debido a que la huella hídrica de un proceso equivale a la suma de las huellas hídricas de las etapas requeridas para la elaboración del producto.   
+
+    p.mt-5 El siguiente video, orienta sobre el procedimiento para la cuantificación de las huellas hídricas azul y verde:
+    figure.mt-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WTQzWcNSG8E" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mt-5 Mientras que en la etapa del proceso con la Huella hídrica gris, es un indicador de la contaminación que se está generando al agua y expresa el volumen de agua necesario para asimilar la carga de estos contaminantes; su cálculo se realiza dividiendo la carga de contaminante entre la diferencia de la norma de calidad de agua de ese contaminante y su concentración natural en la masa de agua receptora. Así:
+
+    .row.mt-5.col-lg-10.m-auto
+      .tarjeta.p-3(style="background-color:#F9D9D9;")
+        .row.justify-content-around.align-items-center
+          .col-auto
+            img.m-3(src="@/assets/curso/temas/tema2/10.svg")
+          .col.m-5
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Donde
+                b #[ L: ]  
+                | Carga de contaminante (masa/tiempo).
+                p.m-0 Cuando la carga depositada alcanza una carga crítica, es decir, consume por completo la capacidad de asimilación de la masa de agua receptora, la HHG será igual a la escorrentía (R) y se calcula así:
+                b #[ Lcrit = ]  
+                | R * (Cmax – Cnat) <br>
+                b #[ Cmax: ]  
+                | Concentración permitida (masa/volumen) <br>
+                b #[ Cnat: ]  
+                | Concentración natural (masa/volumen). Es la concentración del medio que tendrá lugar si en una zona de captación no existe intervención por parte del hombre. El Cnat = 0 para sustancias de origen antrópica que de forma natural no están presentes en el agua o cuando no se conoce con presión la concentración pero se estiman que son bajas.
+
+    p.mt-5 Existen procesos productivos donde las aguas residuales contaminación a las masas de agua superficial con productos específicos, es decir, se conoce la fuente puntual de contaminación, para casos la huella hídrica gris, se puede estimar la carga midiendo el volumen del efluente y la concentración de un producto químico en este, así:
+    
+    .row.mt-5.col-lg-10.m-auto
+      .tarjeta.p-3(style="background-color:#F9D9D9;")
+        .row.justify-content-around.align-items-center
+          .col-auto
+            img.m-3(src="@/assets/curso/temas/tema2/11.svg")
+          .col.m-5
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Donde
+                b #[ Efl: ]  
+                | Volumen del efluente
+                b #[ Cefl: ]  
+                | Concentración de contaminante en el efluente <br>
+                b #[ Extr: ]  
+                | Volumen de extracción del agua <br>
+                b #[ Creal: ]  
+                | Concentración real del agua extraída
+                p.mt-2 Normalmente la cantidad de sustancias químicas depositadas en una masa de agua (Efl * Cefl) será igual o mayor a la cantidad de sustancias químicas presentes en el agua extraída (Extr * Creal) dando como resultado que la carga contaminante sea positiva. En casos excepcionales se puede obtener una carga negativa (Cefl < Creal o Efl < Extr) que debe ser ignorada en el cálculo de la huella hídrica.
+                
+    p.mt-5 Pero, en muchas ocasiones existen otros casos donde las fuentes de contaminación son desconocidas o confusas, cuando se aplica o deposita un producto en el suelo puede que pasar que estos se filtren a las aguas subterráneas o que sean arrastrados hasta una corriente de agua superficial sin conocer su composición, Para lo cual el cálculo se hace:
+    
+    .row.mt-5.col-lg-10.m-auto
+      .tarjeta.p-3(style="background-color:#F9D9D9;")
+        .row.justify-content-around.align-items-center
+          .col-auto
+            img.m-3(src="@/assets/curso/temas/tema2/12.svg")
+          .col.m-5
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Donde
+                b #[ ∞ : ]  
+                | factor adimensional que representa la fracción de lixiviación-escorrentía superficial, definida como la fracción de las sustancias químicas aplicadas que alcanzan las masas de agua dulce. <br>  
+                b #[ Apl: ]  
+                | Cantidad de sustancias químicas depositadas en el suelo durante un proceso determinado (masa/tiempo)
+               
+    p.mt-5 Y actualmente debido a la conciencia ambiental que se ha generado en la humanidad y a la normatividad sancionatoria existente, las empresas realizan tratamientos a las aguas residuales generadas durante el proceso de producción antes de ser vertidas en el medio ambiente, lo que reduce la concentración de contaminantes en el efluente final, y por ende se reduce la HH gris. El cálculo cuando existen estos procesos de tratamiento es:
+    
+    .row.mt-5.col-lg-10.m-auto
+      .tarjeta.p-3(style="background-color:#F9D9D9;")
+        .row.justify-content-around.align-items-center
+          .col-auto
+            img.m-3(src="@/assets/curso/temas/tema2/13.svg")
+          .col.m-5
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Donde
+                b #[ Tefl: ]  
+                | temperatura de un caudal efluente (°C)
+                b #[ Treal: ]  
+                | temperatura de la masa de agua receptora (°C) <br>
+                b #[ Tmax: ]  
+                | temperatura máxima (°C) <br>
+                b #[ Tnat: ]  
+                | temperatura natural (°C)
+                p.mt-2 El aumento de la temperatura máximo aceptable (Tmax – Tnat) depende del tipo de agua y las condiciones locales, si no existe ninguna directriz local se considera un valor predeterminado correspondiente a 3°C.
+                
+    Separador.mt-5  
+
+    .cont_2_3(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_2_3 2.3 Huella hídrica de un producto 
+
+    .row.align-items-center.my-3.col-lg-12.m-auto        
+        .col-auto
+          figure
+            img(src='@/assets/curso/temas/tema2/14.png').m-auto(data-aos="fade-right")
+        .col
+          p(data-aos="fade-up" style="overflow-x: hidden !important") La huella hídrica de un producto es el volumen total de agua dulce que es empleada de forma directa e indirecta para la elaboración de un bien o servicio del sector primario, secundario o terciario; teniendo en cuenta no solo el consumo de agua sino que también la contaminación efectuada en cada una de las etapas de la cadena de producción. Por tanto, como lo indican Hoekstra, et, al., (2011), para el cálculo de la huella hídrica de un producto o servicio ya sea intermedio o final, se emplea la sumatoria de las diferentes etapas del proceso; y es importante resaltar que esta huella hídrica del producto sirve como base para determinar la huella hídrica correspondiente al productor de dicho producto es decir de la empresa, mediante la suma de las huellas hídricas de cada uno de los productos elaborados y ofrecidos por la empresa.
+          .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
+            p.mb-2.py-2(style="overflow-x: hidden !important") Adicionalmente a las huellas hídricas azul, verde y gris, en muchos casos para la cuantificación es necesario determinar otra huella hídrica denominada huella virtual, la cual hace referencia a la cantidad de agua requerida para la elaboración de un producto o servicio, debido a que así no sea tangible se requieren una cantidad considerable de litros de agua para producir los bienes y servicios, porque no solo se cuantifica el agua directa sino que también las que se encuentran detrás, la indirecta. Es decir, se incluye el agua utilizada durante el cultivo, el crecimiento, el procesamiento, la fabricación, el transporte y la venta del producto o al contenido de agua internacional o interregionales, cuando se importa o exporta.
+
+    p.mt-5 Para el cálculo de la huella hídrica de un producto, como lo indica la metodología establecida en el manual de evaluación de la huella hídrica Hoekstra, A. Y., et al., (2011), se debe tener presente que existen varías formas de producción, las cuales pueden ser catalogado como simple como se observa en la figura 7, donde el objetivo final es la producción de un solo producto y el sistema emplea varias una o varias etapas, las cuales pueden ocurrir en serio o de forma paralela.
+
+    .row.justify-content-center.m-5(data-aos="fade-right")        
+        .col-sm-12.col-lg-12
+          .titulo-sexto.mb-0.color-secundario.mb-1
+            p.mb-0 #[b Figura 2] 
+              i Sistema de producción simple
+
+    .row.mt-5.col-lg-8.m-auto
+      .col.mb-3.mb-sm-0
+        figure
+          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right")
+      
+    p.mt-5 Pero normalmente, no existe la producción simple, sino que se da un enfoque secuencial acumulativo, como se observa en la figura 8, donde el sistema de producción se basa en la entrada de productos los cuales se transforman nuevamente en varios productos finales (no solo uno como en la simple); los productos finales se convierten en materias primas para la elaboración de nuevos productos finales. O también se puede dar que se tenga un producto único de entrada y varios productos finales.
+    
+    .row.justify-content-center.m-5(data-aos="fade-right")        
+        .col-sm-12.col-lg-12
+          .titulo-sexto.mb-0.color-secundario.mb-1
+            p.mb-0 #[b Figura 3] 
+              i Sistema de producción secuencial acumulativo
+
+    .row.mt-5.col-lg-8.m-auto
+      .col.mb-3.mb-sm-0
+        figure
+          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right")
+      
+    p.mt-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
+    
+
+  
+
+  
 
 </template>
 
