@@ -52,7 +52,7 @@
       .row.align-items-center.my-0.col-lg-10.m-auto.mb-5        
         .col-auto
           figure
-            img(src='@/assets/curso/temas/tema2/4.svg').m-auto(data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema2/4.svg').m-auto(data-aos="fade-right" alt="“Demanda hídrica”. En la imagen se evidencia La distribución de la demanda hídrica teniendo en cuenta: ⦁ Uso de agua como insumo ⦁ Uso de agua como materia prima Cadenas de uso Sector servicios  Sector piscícola Sector generación Sector hidrocarburos Sector pecuario Sector agrícola Sector industrial Sector minero  ⦁ Uso de agua para satisfacción directa de las necesidades humanas Uso doméstico Retorno Pérdidas Vertimientos Descargas por agua turbinada y caudales de exceso")
 
       p.mb-5.py-1 A nivel mundial se han adelantado por varias entidades de carácter público y privado estudios sobre la cuantificación de la huella hídrica los cuales, han permitido conocer el volumen real de agua empleado por cada sector de la economía; para el caso específico de Colombia, el Instituto de Hidrología Meteorología y Estudios Ambientales – IDEAM en coordinación con Embajada Suiza - Agencia Suiza para la Cooperación y el Desarrollo – COSUDE, Good Stuff International Latinoamérica y El Caribe GSI-LAC y Corporación Centro de Ciencia y Tecnología de Antioquia –CTA, llevaron a cabo la evaluación multisectorial de la huella hídrica en Colombia, donde se realiza la cuantificación para diversos sectores productivos, en los que se incluyen agropecuario, doméstico, industrial, energético y petrolero. A pesar de que el objetivo para cada sector es cuantificar la huella hídrica, todos emplean fórmulas y procedimientos distintos, acordes a la información existente y a los resultados que se quieren obtener.
       p.mb-5.py-1 El siguiente recurso toma por ejemplo el sector agropecuario:
@@ -69,7 +69,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema2/6.png',)
+                img(src='@/assets/curso/temas/tema2/6.png', alt="“Ecuaciones huella hídrica”. En estas tarjetas se presentan dos fórmulas matemáticas utilizadas para hallar la huella hídrica azul y verde.")
 
           h3.text-center HH azul = 10 * Eta azul * As
           .col-sm-12.col-lg-9.mx-5
@@ -127,7 +127,7 @@
       .col-auto
         a.anexo(:href="obtenerLink('/downloads/Anexo1_EstimacionProduccionHuellaHidrica_Tabla.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg", alt="“Estimación de la huella hídrica de la producción agrícola en Colombia”. En esta table se muestran diferentes productos y la cantidad de huella hídrica tanto verde, como azul y gris en mm3/año que requiere.")
           .anexo__texto
             b #[ Anexo. ]  
             | Estimación Producción Huella Hídrica
@@ -256,7 +256,7 @@
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción simple”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción simple." )
       
     p.mt-5 Pero normalmente, no existe la producción simple, sino que se da un enfoque secuencial acumulativo, como se observa en la figura 8, donde el sistema de producción se basa en la entrada de productos los cuales se transforman nuevamente en varios productos finales (no solo uno como en la simple); los productos finales se convierten en materias primas para la elaboración de nuevos productos finales. O también se puede dar que se tenga un producto único de entrada y varios productos finales.
     
@@ -269,14 +269,128 @@
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
       
-    p.mt-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
+    p.m-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
     
+    SlyderF(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
+        .row.justify-content-center
+        h2.text-center Suma de Cadenas <br> (Para casos específicos)
+        p.text-center Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan asociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto.
+        .row.justify-content-center.mb-5
+          .col-8.mt-5
+              img(src='@/assets/curso/temas/tema2/17.svg' alt='“Cálculo huella hídrica”. En esta slider muestran las diferentes formulas que se deben aplicar para calcular la huella hídrica por medio de dos formas: ⦁ Suma de cadenas ⦁ Secuencia acumulativa')
 
-  
+      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
+        .row.justify-content-center
+        h2.text-center Donde:
+        b #[ K: ]  
+        | etapas del proceso <br>
+        b #[ HHprod (S): ]  
+        | Huella hídrica de la etapa S del proceso (volumen/tiempo) <br>
+        b #[ Pp: ]  
+        | Cantidad producida del producto p (masa/tiempo)
+        p.text-center.mt-5 También existe el caso el que se procesa únicamente un producto de entrada para la producción de un producto final, siendo el cálculo así:
+        .row.justify-content-center.mb-5
+          .col-8.mt-5
+            img(src='@/assets/curso/temas/tema2/18.svg' )
 
-  
+      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
+        .row.justify-content-center
+        h2.text-center.m-0 Secuencial Acumulativo 
+        h2.text-center (Genérico)
+        p.text-center Es una forma genérica de calcular la HH de un producto basado en las HH de los productos de entrada que fueron necesarias en la última etapa de producción para generar el producto final y la HH de proceso de esa etapa del proceso.
+        p.text-center En el caso en que se tenga un producto único y varios productos finales, se debe distribuir la HH del producto de entrada a los diferentes productos, ya sea de forma proporcional al valor de los productos finales o proporcionales al peso de los productos.
+        .row.justify-content-center.mt-5
+          img(src='@/assets/curso/temas/tema2/19.svg')
+
+      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
+        .row.justify-content-center
+        h2.text-center Donde:
+        b #[ HHprod (p): ]  
+        | Huella hídrica del producto final (volumen/masa)  <br> <br>
+        b #[ y:  ]  
+        | productos de entrada <br> <br>
+        b #[ HHprod (i): ]  
+        |  Huella hídrica del producto de entrada <br>  <br>
+        b #[ HHprod (p): ]  
+        | Huella hídrica de proceso de la etapa de proceso que transforma los productos de entrada (y) en los productos finales (z), expresados en uso de agua por unidad de producto procesado (p) (volumen/masa)  <br>  <br>
+        b #[ FP (p,i): ]  
+        | fracción de producto <br> <br>
+        b #[ Fv (p):  ]  
+        | fracción de valor                      
+
+      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
+        .row.justify-content-center
+        p.text-center La fracción de un producto final  que resulta del procesamiento de un producto de entrada se define como la cantidad de producto final obtenido por la cantidad de producto de entrada 
+        .row.justify-content-center.mb-5
+          .col-8.mt-5
+              img(src='@/assets/curso/temas/tema2/20.svg' )  
+        p.text-center.mb-5 La fracción de valor de un producto final se define como la relación entre el valor en el mercado de este producto y el agregado de mercado de todos los productos finales resultante de los productos de entrada
+        .row.justify-content-center.mb-5
+          img(src='@/assets/curso/temas/tema2/21.svg' )        
+
+    Separador.mt-5
+
+    .cont_2_4(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_2_4 2.4 Huella hídrica de un consumidor o grupo de consumidores      
+    
+    .row.align-items-center.my-3.col-lg-12.m-auto        
+      .col-auto
+        figure
+          img(src='@/assets/curso/temas/tema2/22.png').m-auto(data-aos="fade-right")
+      .col
+        p(data-aos="fade-up" style="overflow-x: hidden !important") La huella hídrica de un consumidor es el equivalente al total de agua dulce consumida y contaminada y su cuantificación es el resultado de las huellas hídricas de los productos consumidos por este, mientras que la de un grupo o comunidad de consumidores es el resultado de la sumatoria de las huellas hídricas individuales de cada miembro o consumidor individual.
+        .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
+          p.mb-2.py-2(style="overflow-x: hidden !important") En el caso de los consumidores, la huella hídrica indirecta es superior que la huella indirecta, es decir, es mayor al comparar el consumo y contaminación de agua es superior la proveniente de la producción de bienes y servicios que utilizamos en nuestro diario vivir, por tanto, es necesario cambiar los patrones de consumo. La metodología para la cuantificación de la huella hídrica de un consumidor o grupo de consumidores (HHC), establecida en el manual de evaluación de la huella hídrica por Hoekstra, et, al., (2011), indica que es el resultado de la huella hídrica directa del individuo y su huella hídrica indirecta y se expresa en volumen/masa:
+
+    .tarjeta--container.row.m-3.mt-5
+      .col-md.tarjeta.color-acento-contenido.p-5
+        .row.justify-content-center.mb-4
+          .col-12
+            figure
+              img(src='@/assets/curso/temas/tema2/23.png', alt='Texto que describa la imagen')
+          
+        h3.text-center HHG = HH cons. dir + cons. indir
+        h3.text-center Donde:
+        p.text-center La HH directa se refiere al consumo y a la contaminación relacionada con el uso de agua doméstica, por ejemplo en actividades como el aseo personal, la preparación de alimentos y el lavado de ropa
+
+      .col-md.tarjeta.color-acento-botones.p-5
+        .row.justify-content-center.mb-4
+          .col-12
+            figure
+              img(src='@/assets/curso/temas/tema2/24.png', alt='Texto que describa la imagen')
+          
+        h3.text-center(style="color: #00574F !important") HH cons. indir = Σ p ( C (p) * HH * prad (p) )
+        p.text-center(style="color: #00574F !important") La HH indirecta se refiere al consumo y la contaminación del agua relacionados con la producción de bienes y servicios usados por el consumidor, por ejemplo el agua utilizada en comida, ropa, papel, energía y bienes industriales; está se calcula multiplicando todos los productos por la HH de los respectivos productos.
+        h3.text-center(style="color: #00574F !important") Donde:
+        p.text-center(style="color: #00574F !important") C(p): consumo de un producto p (unidades de producto / tiempo) HH *prod (p): huella hídrica de este producto (volumen de agua / unidad de producto)
+
+    Separador.mt-5
+
+    .cont_2_5(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_2_5 2.5 Huella hídrica de un área geográfica  
+    
+    p.mt-5 Cuando se habla de un área geográfica, se hace referencia a una gran variedad de áreas entre las que se encuentran municipio, provincia, nación, zona de captación, cuenca hidrográfica o cualquier otra zona espacial hidrológica o administrativa; siendo importante para su cuantificación definir claramente los límites de dicha área ya su huella hídrica corresponde al total de consumo y contaminación de agua dulce dentro de los límites del área, es decir el cálculo corresponde a la sumatoria de todas las huellas hídricas que tienen lugar en el área determinada. La metodología para la cuantificación de la huella hídrica de un área geográfica, establecida por Hoekstra, et al., (2011), se describe que la ecuación suma todos los procesos que consuman o contaminen el agua en el área, así:
+
+    .row.mt-5.col-lg-10.m-auto
+      .tarjeta.p-3(style="background-color:#F9D9D9;")
+        .row.justify-content-around.align-items-center
+          .col-auto
+            img.m-3(src="@/assets/curso/temas/tema2/25.svg")
+          .col.m-5
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Donde
+                b #[ HH proc (q): ]  
+                | huella hídrica de un proceso (q) dentro de un área geográficamente delimitada.
+               
+    p.mt-5 Siendo esta una metodología general para la cuantificación de la huella hídrica de un área geográfica, ya que existen metodologías específicas para cada área, es decir, metodologías para la cuantificación de la huella hídrica de un municipio, una nación, una zona de captación o cuenca hidrográfica específica
+    p.mt-5 Adicionalmente para resaltar, la huella hídrica de la humanidad corresponde a suma de las huellas hídricas de todos los consumidores existentes en el mundo, por tanto, es necesario determinar y realizar la suma de todas las huellas hídricas de los bienes y servicios de consumo final consumidos de forma anual y la suma de todos los procesos de consumo y contaminación del agua a nivel mundial.
+    
 
 </template>
 
