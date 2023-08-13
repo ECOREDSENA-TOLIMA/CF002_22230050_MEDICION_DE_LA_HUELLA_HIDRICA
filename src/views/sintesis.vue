@@ -3,8 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .titulo-sexto.color-acento-contenido
+      h5 Evaluación y análisis de la huella hídrica
+
+    p El conocimiento de la información del patrimonio hídrico y su comportamiento ante factores como el cambio climático y demás que generan variabilidad es de gran relevancia; debido a la importancia de este líquido vital, necesario para desarrollo de la vida, lo que implica desarrollar una gestión integral de este recurso, donde el uso sea de manera responsable, eficiente y sostenible, direccionado a preservar su calidad y cantidad ya que esto permite la conservación de los ecosistemas y la vida en general de los seres humanos. Es por eso que Colombia el Instituto de Hidrología Meteorología y Estudios Ambientales – IDEAM, quien es la máxima autoridad ambiental, realiza el reporte sobre el estado y dinámica de las aguas del país, datos que publican periódicamente mediante el Estudio Nacional del Agua ENA, el cual condensa información como la evaluación multisectorial de la huella hídrica en el país.
+    p.mb-5 Referente a la huella hídrica, existen diversas metodologías para su cuantificación y las fórmulas empleadas varían dependiendo de lo que se quiere calcular, por ejemplo a un sector económico (Agropecuario, doméstico, energético, minero, industrial, etc.), organización específica, empresa o sector empresarial, proceso productivo, etapa del proceso, producto o servicio, consumidor o grupo de consumidores o aun nivel geográfico (municipio, provincia, nación, zona de captación o cuenca hidrográfica). Además no solo se determina el valor numérico sino que también se hace necesario realizar un análisis de sostenibilidad que implica varios factores como son los colores de la huella hídrica, los impactos y sus niveles, como también las afectaciones sociales, económicas y ambientales; con el objetivo de tomar medidas enfocadas a reducir la huella hídrica y acciones para compensar y mitigar sus impactos.
+    p.mb-5 Así pues, un resumen de lo visto en el presente componente, podrá ser visualizado en el siguiente mapa conceptual.
 
     .row.justify-content-center
       .col-lg-10.mb-5
