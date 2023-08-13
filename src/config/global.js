@@ -124,32 +124,128 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Estudio nacional del agua',
+      referencia:
+        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: Ideam: 452 pp.',
+      tipo: 'Documento',
+      link:
+        'https://cta.org.co/descargables-biblionet/agua-y-medio-ambiente/Estudio-Nacional-del-Agua-2018.pdf?',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Cuantificación de la huella hídrica',
+      referencia:
+        'Zárate Torres, E., Fernández Poulussen, A., Kuiper, D., Resiliencia, P. I., & Europea, U. (2017). Guía metodológica para la evaluación de la huella hídrica en una cuenca hidrográfica.',
+      tipo: 'Documento',
+      descarga:
+        'https://repositorio.iica.int/bitstream/handle/11324/2996/BVE17068913e.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Cuantificación de la huella hídrica',
+      referencia:
+        'Arévalo, d., & Campuzano, C. (2013). Evaluación de la Huella Hídrica en la cuenca del río Porce. Resumen de resultados. Agencia suiza para el desarrollo y la cooperación COSUDE. Medellín: Adhouse, 54.',
+      tipo: 'Documento',
+      descarga:
+        'https://cta.org.co/biblionet/evaluacion-de-la-huella-hidrica-en-la-cuenca-del-rio-porce/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis de sostenibilidad',
+      significado:
+        'Comparación de los recursos hídricos consumidos con la disponibilidad existente. Se basa en hacer una comparación entre la huella hídrica humana y lo que la tierra puede soportar de manera sostenible, teniendo en cuenta varios factores como son los colores de la huella hídrica, los impactos y sus niveles, como también las dimensiones social, económica y ambiental.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Cuantificar',
+      significado: 'Expresar numéricamente una magnitud',
+    },
+    {
+      termino: 'Demanda hídrica',
+      significado:
+        'Eliminación de agua de cualquier fuente, ya sea permanentemente o de forma temporal. Extracción hídrica del sistema natural destinada a suplir las necesidades o requerimientos del consumo humano, la producción sectorial y las demandas esenciales de los ecosistemas no antrópicos.',
+    },
+    {
+      termino: 'Evaluación integral de la huella de agua',
+      significado:
+        'Evaluación de huella de agua que cumple con el principio de integridad, considerando todos los atributos ambientales pertinentes o aspectos del ambiente, la salud humana y los recursos relacionados con el agua, incluyendo la disponibilidad y la degradación.',
+    },
+    {
+      termino: 'Huella hídrica',
+      significado:
+        'Indicador del agua dulce usada, alterada y contaminada directa o indirectamente por la humanidad, que permite evaluar los riesgos asociados y desarrollar estrategias para mitigarlos.',
+    },
+    {
+      termino: 'Metodología',
+      significado:
+        'Grupo de mecanismos o procedimientos racionales, empleados para el logro de un objetivo, o serie de objetivos que dirige una investigación científica. Este término se encuentra vinculado directamente con la ciencia.',
+    },
+    {
+      termino: 'Mitigación',
+      significado:
+        'Conjunto de medidas para contrarrestar o minimizar los impactos ambientales negativos.',
+    },
+    {
+      termino: 'Sostenibilidad',
+      significado:
+        'Desarrollo que asegura satisfacer las necesidades de las generaciones presentes sin comprometer las necesidades de las generaciones futuras.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Becerra, A. T., Bravo, X. B. L., & Membrive, V. J. F. (2013). Huella hídrica y sostenibilidad del uso de los recursos hídricos. M+ A: Revista Electrónica de Medioambiente, 14(1), 56.',
       link: '',
+    },
+    {
+      referencia:
+        'Campuzano-Ochoa, C. A., González-Valencia, J. E., Guzmán-Cabrera, A. C., Rodríguez-Ortiz, C. M., Arévalo-Uribe, D., & Parada-Puig, G. (2014). Evaluación multisectorial de la huella hídrica en Colombia. Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua',
+      link: '',
+    },
+    {
+      referencia:
+        'Falkenmark, M. y Rockström, J. (2004) Balancing Water for Humans and Nature: The New Approach in Ecohydrology, Earthscan, Londres.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hoekstra, A. Y., Chapagain, A. K., Mekonnen, M. M., & Aldaya, M. M. (2011). The water footprint assessment manual: Setting the global standard. Routledge.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hoekstra, A. Y. y Chapagain, A. K. (2008) Globalization of Water: Sharing the Planet’s Freshwater Resources, Blackwell Publishing, Oxford.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hoekstra, A. Y. (2008a) “Water neutral: Reducing and offsetting the impacts of water footprints”, Value of Water Research Report Series, n.º28, UNESCO-IHE, Delft, Holanda,',
+      link:
+        'https://www.waterfootprint.org/resources/Report28-WaterNeutral.pdf',
+    },
+    {
+      referencia:
+        'IDEAM. (2010). Estudio Nacional del Agua 2010. Instituto de Hidrología, Meteorología y Estudios Ambientales. Bogotá D.C',
+      link: '',
+    },
+    {
+      referencia:
+        'IDEAM. (2015). Estudio Nacional del Agua 2014. Bogotá, D. C., 496 páginas. ISBN: 978-958-8067-70-4',
+      link: '',
+    },
+    {
+      referencia:
+        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: Ideam: 452 pp',
+      link: '',
+    },
+    {
+      referencia:
+        'Mekonnen, M. M., & Hoekstra, A. Y. (2011). The green, blue and grey water footprint of crops and derived crop products. Hydrology and Earth System Sciences, 15(5), 1577-1600.',
+      link: '',
+    },
+    {
+      referencia:
+        'WWF. (2012). Una mirada a la agricultura de Colombia desde su Huella Hídrica.',
+      link:
+        'http://www.huellahidrica.org/Reports/Arevalo-2012-HuellaHidricaColombia.pdf.',
     },
   ],
   creditos: [
