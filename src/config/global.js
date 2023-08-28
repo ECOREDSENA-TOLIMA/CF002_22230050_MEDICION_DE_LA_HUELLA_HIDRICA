@@ -136,7 +136,7 @@ export default {
       referencia:
         'Zárate Torres, E., Fernández Poulussen, A., Kuiper, D., Resiliencia, P. I., & Europea, U. (2017). Guía metodológica para la evaluación de la huella hídrica en una cuenca hidrográfica.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://repositorio.iica.int/bitstream/handle/11324/2996/BVE17068913e.pdf?sequence=1&isAllowed=y',
     },
     {
@@ -144,7 +144,7 @@ export default {
       referencia:
         'Arévalo, d., & Campuzano, C. (2013). Evaluación de la Huella Hídrica en la cuenca del río Porce. Resumen de resultados. Agencia suiza para el desarrollo y la cooperación COSUDE. Medellín: Adhouse, 54.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://cta.org.co/biblionet/evaluacion-de-la-huella-hidrica-en-la-cuenca-del-rio-porce/',
     },
   ],

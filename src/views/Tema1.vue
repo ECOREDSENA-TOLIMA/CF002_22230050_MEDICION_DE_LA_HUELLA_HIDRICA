@@ -63,7 +63,7 @@
               p.mb-0(style="color:#FFF;") #[b IRS:] Índice de Rendimiento medio Sedimentos
 
             .tarjeta.color-adicional-2.p-3(x="57%" y="11.5%" numero="5"  style="background-color:#12263F;")
-              p.mb-0(style="color:#FFF;") #[b IUA:] Índice de Uso del Agua Superficia
+              p.mb-0(style="color:#FFF;") #[b IUA:] Índice de Uso del Agua Superficial
             
             .tarjeta.color-adicional-2.p-3(x="80.5%" y="5%" numero="6"  style="background-color:#12263F;")
               p.mb-0(style="color:#FFF;") #[b IPHE:] Índice de Presión Hídrica al Ecosistema 

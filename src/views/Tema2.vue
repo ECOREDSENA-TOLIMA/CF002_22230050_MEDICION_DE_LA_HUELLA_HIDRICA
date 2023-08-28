@@ -24,7 +24,7 @@
             .col-sm-12.col-lg-1
               img.m-3(src='@/assets/curso/temas/tema2/2.svg', style="width:80px")
             .col-sm-12.col-lg-11
-              p.m-2.py-1 La selección de la metodología empleada para la cuantificación de la huella hídrica, depende de diversos factores, entre los que se encuentran el acceso y disponibilidad de la información requerida, la población al que va dirigido, el tipo de agua empleada y extraída, el grado de detalle que se quiere alcanzar con el estudio; todo esto define como sería el procedimiento de cuantificación
+              p.m-2.py-1 La selección de la metodología empleada para la cuantificación de la huella hídrica, depende de diversos factores, entre los que se encuentran el acceso y disponibilidad de la información requerida, la población al que va dirigido, el tipo de agua empleada y extraída, el grado de detalle que se quiere alcanzar con el estudio; todo esto define como sería el procedimiento de cuantificación.
 
       p.mb-0.py-5(data-aos="fade-up") Siendo posible emplear en el proceso de cuantificación de la huella hídrica más de una metodología, ya que estas son compatibles y complementarias, permitiendo obtener un estudio más detallado, mediante herramientas que permiten desarrollar una evaluación y a su vez una gestión sostenible de este recurso natural, en diferentes campos de aplicación.
     
@@ -77,7 +77,7 @@
               li
                 |● 
                 b #[i HH verde: ]  
-                | Huella hídrica azul (m3/mes) 
+                | huella hídrica azul (m3/mes) 
               li
                 |● 
                 b #[i Eta verde: ]  
@@ -100,7 +100,7 @@
               li
                 |● 
                 b #[i HH azul: ]  
-                | Huella hídrica verde (m3/mes)
+                | huella hídrica verde (m3/mes)
               li
                 |● 
                 b #[i Eta azul: ]  
@@ -121,7 +121,7 @@
           img(src='@/assets/curso/temas/tema2/8.svg').m-auto(data-aos="fade-right")   
 
     .cajon.color-acento-contenido.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
-      p.mb-0(data-aos="fade-up") Las tablas a continuación muestran la Estimación de la huella hídrica de la producción agrícola en Colombia, Huella azul anual para el sector agrícola y la Huella verde anual para el sector agrícola
+      p.mb-0(data-aos="fade-up") El anexo a continuación muestra la Estimación de la huella hídrica de la producción agrícola en Colombia, Huella azul anual para el sector agrícola y la Huella verde anual para el sector agrícola.
 
     .row.justify-content-center.m-5
       .col-auto
@@ -145,7 +145,7 @@
         .col
           p(data-aos="fade-up" style="overflow-x: hidden !important") La huella hídrica de una etapa del proceso, tiene una importancia singular, debido a que su cuantificación es la base inicial de donde se desprende el cálculo de muchas otras huellas hídricas, ya que al sumar todas las huellas hídricas de la etapa de un proceso se puede obtener la huella hídrica del producto, y al sumar las huellas hídricas del producto se puede obtener ya sea la de un productor (si se suma las huellas hídricas de producto de todos los productos elaborados en la empresa) o la de un consumidor (si se suma las huellas hídricas de producto de todos los productos consumidos); pero también se puede obtener la huella hídrica dentro de un área geográficamente delimitada si se suman las huellas hídricas de proceso de todos los procesos que tienen lugar en el área.
           .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
-            p.mb-2.py-2(style="overflow-x: hidden !important") Sin embargo se debe tener presente no caer en el error de realizar una doble cuantificación de la huella hídrica al sumar productos intermedios, lo que no sería una doble cuantificación es la suma de huellas hídricas de productos finales, debido a que la huella hídrica de un proceso equivale a la suma de las huellas hídricas de las etapas requeridas para la elaboración del producto.   
+            p.mb-2.py-2(style="overflow-x: hidden !important") Sin embargo, se debe tener presente no caer en el error de realizar una doble cuantificación de la huella hídrica al sumar productos intermedios, lo que no sería una doble cuantificación es la suma de huellas hídricas de productos finales, debido a que la huella hídrica de un proceso equivale a la suma de las huellas hídricas de las etapas requeridas para la elaboración del producto.   
 
     p.mt-5 El siguiente video, orienta sobre el procedimiento para la cuantificación de las huellas hídricas azul y verde:
     figure.mt-5
@@ -184,7 +184,7 @@
               .col.mb-3.mb-sm-0
                 h4.mb-1 Donde
                 b #[ Efl: ]  
-                | Volumen del efluente
+                | Volumen del efluente <br>
                 b #[ Cefl: ]  
                 | Concentración de contaminante en el efluente <br>
                 b #[ Extr: ]  
@@ -355,7 +355,7 @@
           
         h3.text-center HHG = HH cons. dir + cons. indir
         h3.text-center Donde:
-        p.text-center La HH directa se refiere al consumo y a la contaminación relacionada con el uso de agua doméstica, por ejemplo en actividades como el aseo personal, la preparación de alimentos y el lavado de ropa
+        p.text-center La HH directa se refiere al consumo y a la contaminación relacionada con el uso de agua doméstica, por ejemplo, en actividades como el aseo personal, la preparación de alimentos y el lavado de ropa.
 
       .col-md.tarjeta.color-acento-botones.p-5
         .row.justify-content-center.mb-4
@@ -408,28 +408,24 @@ export default {
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Huella hídrica del sector agropecuario',
         texto:
           'Según Hoeskstra y Chapagain (2008) se calcula que el 86% de la huella hídrica de los seres humanos está relacionada con el sector agrícola; además, para el caso de Colombia su economía se basa en gran parte del sector agropecuario, siendo un país productor de café, las flores, el banano, el cacao, arroz, entre muchos otros productos.',
         imagen: require('@/assets/curso/temas/tema2/5.1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Huella hídrica del sector agropecuario',
         texto:
           'Para lograr realizar el cálculo de la huella hídrica de este sector, se requiere inicialmente de la información estadística sobre los cultivos agrícolas, pecuarios, pastos, clima, suelo, áreas sembradas y demás que sea relevante.   ',
         imagen: require('@/assets/curso/temas/tema2/5.2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Huella hídrica del sector agropecuario',
         texto:
           'Esta información debe ser obtenida de fuentes confiables como por ejemplo el  Ministerio de Agricultura y Desarrollo Rural de Colombia (MADR), el Instituto Geográfico Agustín Codazzi, la Organización de las naciones unidas para la alimentación y la agricultura (FAO), el IDEAM, el Departamento de estadística nacional (DANE), etc.',
         imagen: require('@/assets/curso/temas/tema2/5.3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Huella hídrica del sector agropecuario',
         texto:
           'Al ser el sector agropecuario muy grande incluye una gran variedad de subsectores y sistemas agrícolas, es necesario obtener información referente a los cultivos suministrada por las diferentes entidades y gremios como Asocaña, Fedearroz, Fenalce, Fedepalma y Fedecafé, entre otros.',
         imagen: require('@/assets/curso/temas/tema2/5.4.png'),

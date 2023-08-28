@@ -51,11 +51,11 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema3/5.png', alt='').img125
             .col-lg
-              p.my-5(style="position:relative") Identificación y cuantificación de los
+              p.my-5(style="position:relative") Identificación y cuantificación de los 
                 b #[ impactos secundarios ]
-                | secundarios en los puntos críticos.    
+                | en los puntos críticos.    
 
-    p.m-5 La identificación de los puntos críticos permite analizar las implicaciones sociales, económicas y ambientales de forma detallada como se observa en la figura 10, debido a que estos se originan cuando existe escasez de agua o niveles superiores de contaminación y, por su parte los impactos primarios hacen referencia al agua a la alteración que sufre mientras que los impactos secundarios trata de los bienes y servicios ecológicos que se deterioran como consecuencia de los impactos primarios. Por ejemplo la pérdida de biodiversidad, extinción de flora y fauna, afectación a la salud humana, pérdidas de ingresos monetarios, etc., tal como se muestra a continuación: 
+    p.m-5 La identificación de los puntos críticos permite analizar las implicaciones sociales, económicas y ambientales de forma detallada como se observa en el recurso, debido a que estos se originan cuando existe escasez de agua o niveles superiores de contaminación y, por su parte los impactos primarios hacen referencia al agua a la alteración que sufre mientras que los impactos secundarios tratan de los bienes y servicios ecológicos que se deterioran como consecuencia de los impactos primarios. Por ejemplo, la pérdida de biodiversidad, extinción de flora y fauna, afectación a la salud humana, pérdidas de ingresos monetarios, etc., tal como se muestra a continuación: 
 
     .row.justify-content-left.mb-5
         .col-sm-12.col-lg-4.mt-2
