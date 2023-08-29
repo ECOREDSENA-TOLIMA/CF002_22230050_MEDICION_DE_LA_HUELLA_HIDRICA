@@ -110,7 +110,7 @@
                 b #[i As: ]  
                 | corresponde al área sembrada de cultivo o tipo de pasto
     p.mt-5 
-    | Es importante aclarar que los resultados obtenidos en los diferentes estudios sobre  la cuantificación de los millones de metros cúbicos de agua consumidos en el año por diferentes productos agrícolas difieren significativamente, ya que la huella hídrica promedio por tonelada de cultivo primario varía entre cultivos y regiones de producción; por ejemplo en el reporte de presentado por la WWF (2002) “Una mirada a la agricultura de Colombia desde su Huella Hídrica” que es considera una de las principales organizaciones de conservación de la naturaleza a nivel global, se realiza la estimación de la huella de la producción agrícola de Colombia, estableciendo que el producto con mayor huella hídrica (azul, verde y gris) es el café, mientras que entre los menores se encuentra el coliflor, como se observa en la figura 4.
+    | Es importante aclarar que los resultados obtenidos en los diferentes estudios sobre  la cuantificación de los millones de metros cúbicos de agua consumidos en el año por diferentes productos agrícolas difieren significativamente, ya que la huella hídrica promedio por tonelada de cultivo primario varía entre cultivos y regiones de producción; por ejemplo en el reporte de presentado por la WWF (2002) “Una mirada a la agricultura de Colombia desde su Huella Hídrica” que es considera una de las principales organizaciones de conservación de la naturaleza a nivel global, se realiza la estimación de la huella de la producción agrícola de Colombia, estableciendo que el producto con mayor huella hídrica (azul, verde y gris) es el café, mientras que entre los menores se encuentra el coliflor.
 
     .row.align-items-center.my-5.col-lg-12.m-auto              
       .col
@@ -271,7 +271,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
       
-    p.m-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
+    p.m-5 Por tanto, la huella hídrica puede calcularse de 3 formas, desde:
     
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")

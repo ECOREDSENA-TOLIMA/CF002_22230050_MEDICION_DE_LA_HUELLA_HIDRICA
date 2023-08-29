@@ -57,7 +57,7 @@
         <rect id="Rectángulo_317454" data-name="Rectángulo 317454" width="127.879" height="41.818" rx="12" transform="translate(330.145 383.087)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
       </g>
     </g>
-    <text id="del_sistema_hídrico" data-name="del sistema hídrico" transform="translate(350.31 406.906)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">del siste</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">a h</tspan><tspan y="0" letter-spacing="-0.025em">í</tspan><tspan y="0" letter-spacing="-0.024em">d</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0">o</tspan></text>
+    <text id="Del_sistema_hídrico" data-name="Del sistema hídrico" transform="translate(350.31 406.906)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">Del siste</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">a h</tspan><tspan y="0" letter-spacing="-0.025em">í</tspan><tspan y="0" letter-spacing="-0.024em">d</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0">o</tspan></text>
     <g id="Grupo_245175" data-name="Grupo 245175" transform="translate(0 -0.001)">
       <g id="Grupo_245174" data-name="Grupo 245174" clip-path="url(#clip-path)">
         <path id="Trazado_246673" data-name="Trazado 246673" d="M988.542,272.194H870.276a8.24,8.24,0,0,1-8.24-8.24V252.349a8.239,8.239,0,0,1,8.24-8.24H988.542a8.239,8.239,0,0,1,8.24,8.24v11.606a8.24,8.24,0,0,1-8.24,8.24" transform="translate(-270.136 -76.496)" fill="#baeaff"/>
@@ -71,28 +71,28 @@
         <rect id="Rectángulo_317458" data-name="Rectángulo 317458" width="134.746" height="28.085" rx="12" transform="translate(591.9 125.796)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
       </g>
     </g>
-    <text id="calidad" transform="translate(642.385 142.749)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">alida</tspan><tspan y="0">d</tspan></text>
+    <text id="Calidad" transform="translate(642.385 142.749)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">C</tspan><tspan y="0" letter-spacing="-0.024em">alida</tspan><tspan y="0">d</tspan></text>
     <g id="Grupo_245179" data-name="Grupo 245179" transform="translate(0 -0.001)">
       <g id="Grupo_245178" data-name="Grupo 245178" clip-path="url(#clip-path)">
         <path id="Trazado_246675" data-name="Trazado 246675" d="M988.542,150.389H870.276a8.24,8.24,0,0,1-8.24-8.24V130.544a8.239,8.239,0,0,1,8.24-8.24H988.542a8.239,8.239,0,0,1,8.24,8.24V142.15a8.24,8.24,0,0,1-8.24,8.24" transform="translate(-270.136 -38.326)" fill="#baeaff"/>
         <rect id="Rectángulo_317460" data-name="Rectángulo 317460" width="134.746" height="28.085" rx="12" transform="translate(591.9 83.979)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
       </g>
     </g>
-    <text id="disponibilidad" transform="translate(626.952 100.931)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">dis</tspan><tspan y="0" letter-spacing="-0.025em">po</tspan><tspan y="0" letter-spacing="-0.024em">ni</tspan><tspan y="0" letter-spacing="-0.025em">b</tspan><tspan y="0" letter-spacing="-0.024em">ilida</tspan><tspan y="0">d</tspan></text>
+    <text id="Disponibilidad" transform="translate(626.952 100.931)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">Dis</tspan><tspan y="0" letter-spacing="-0.025em">po</tspan><tspan y="0" letter-spacing="-0.024em">ni</tspan><tspan y="0" letter-spacing="-0.025em">b</tspan><tspan y="0" letter-spacing="-0.024em">ilida</tspan><tspan y="0">d</tspan></text>
     <g id="Grupo_245181" data-name="Grupo 245181" transform="translate(0 -0.001)">
       <g id="Grupo_245180" data-name="Grupo 245180" clip-path="url(#clip-path)">
         <path id="Trazado_246676" data-name="Trazado 246676" d="M988.542,89.487H870.276a8.24,8.24,0,0,1-8.24-8.24V69.642a8.239,8.239,0,0,1,8.24-8.24H988.542a8.239,8.239,0,0,1,8.24,8.24V81.248a8.24,8.24,0,0,1-8.24,8.24" transform="translate(-270.136 -19.241)" fill="#baeaff"/>
         <rect id="Rectángulo_317462" data-name="Rectángulo 317462" width="134.746" height="28.085" rx="12" transform="translate(591.9 42.161)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
       </g>
     </g>
-    <text id="demanda" transform="translate(637.17 59.114)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">de</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">and</tspan><tspan y="0">a</tspan></text>
+    <text id="Demanda" transform="translate(637.17 59.114)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">De</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">and</tspan><tspan y="0">a</tspan></text>
     <g id="Grupo_245183" data-name="Grupo 245183" transform="translate(0 -0.001)">
       <g id="Grupo_245182" data-name="Grupo 245182" clip-path="url(#clip-path)">
         <path id="Trazado_246677" data-name="Trazado 246677" d="M988.542,28.584H870.276a8.24,8.24,0,0,1-8.24-8.24V8.739A8.239,8.239,0,0,1,870.276.5H988.542a8.239,8.239,0,0,1,8.24,8.24V20.345a8.24,8.24,0,0,1-8.24,8.24" transform="translate(-270.136 -0.156)" fill="#baeaff"/>
         <rect id="Rectángulo_317464" data-name="Rectángulo 317464" width="134.746" height="28.085" rx="12" transform="translate(591.9 0.343)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
       </g>
     </g>
-    <text id="oferta" transform="translate(645.299 17.296)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">o</tspan><tspan y="0" letter-spacing="-0.036em">f</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0">r</tspan><tspan y="0" letter-spacing="-0.024em">t</tspan><tspan y="0">a</tspan></text>
+    <text id="Oferta" transform="translate(645.299 17.296)" fill="#12263f" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.036em">Of</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0">r</tspan><tspan y="0" letter-spacing="-0.024em">t</tspan><tspan y="0">a</tspan></text>
     <g id="Grupo_245185" data-name="Grupo 245185" transform="translate(0 -0.001)">
       <g id="Grupo_245184" data-name="Grupo 245184" clip-path="url(#clip-path)">
         <path id="Trazado_246678" data-name="Trazado 246678" d="M988.542,545.1H870.276a8.24,8.24,0,0,1-8.24-8.24V525.259a8.239,8.239,0,0,1,8.24-8.24H988.542a8.239,8.239,0,0,1,8.24,8.24v11.606a8.24,8.24,0,0,1-8.24,8.24" transform="translate(-270.136 -162.017)" fill="#baeaff"/>
