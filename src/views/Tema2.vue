@@ -77,7 +77,7 @@
               li
                 |● 
                 b #[i HH verde: ]  
-                | huella hídrica azul (m3/mes) 
+                | huella hídrica azul (Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris) Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial/mes) 
               li
                 |● 
                 b #[i Eta verde: ]  
@@ -100,7 +100,7 @@
               li
                 |● 
                 b #[i HH azul: ]  
-                | huella hídrica verde (m3/mes)
+                | huella hídrica verde (m³/mes)
               li
                 |● 
                 b #[i Eta azul: ]  
@@ -114,8 +114,8 @@
 
     .row.align-items-center.my-5.col-lg-12.m-auto              
       .col
-        p(data-aos="fade-up" style="overflow-x: hidden !important") Mientras que los resultados de evaluación multisectorial de la huella hídrica en Colombia, donde se realiza la cuantificación para diversos sectores productivos publicados por el IDEAM en el año 2015, arrojan como se puede analizar en la figura 5 que la huella hídrica azul (HHA) de los cultivos permanentes corresponde a 3.918,4 millones de m3 /año; el valor mayor corresponde al cultivo de palma de aceite, seguido del plátano y la caña de azúcar, para el cultivo de café no se reportó HHA, debido a que se considera que este cultivo no se riega en Colombia, Y, para los cultivos transitorios, la HHA anual es de 847,1 millones de m3; teniendo el valor mayor el arroz de riego, seguido de la papa y el maíz. Y, el menor valor fue para el cultivo de soya. En lo relacionado con la huella hídrica verde (HHV) (figura 6), para los cultivos permanentes, el mayor de valor de HHV fue para el café (11.822,3 millones de m3 /año), seguido por el cultivo de caña, palma de aceite y plátano. Y en relación a los cultivos transitorios, es el maíz es el de mayor HHV, seguido del arroz de riego y el secano mecanizado. Por su parte, las menores HHV las presentan la zanahoria, el tomate y el trigo.
-        p(data-aos="fade-up" style="overflow-x: hidden !important") Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris) Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial.
+        p(data-aos="fade-up" style="overflow-x: hidden !important") Mientras que los resultados de evaluación multisectorial de la huella hídrica en Colombia, donde se realiza la cuantificación para diversos sectores productivos publicados por el IDEAM en el año 2015, arrojan que la huella hídrica azul (HHA) de los cultivos permanentes corresponde a 3.918,4 millones de m³ /año; el valor mayor corresponde al cultivo de palma de aceite, seguido del plátano y la caña de azúcar, para el cultivo de café no se reportó HHA, debido a que se considera que este cultivo no se riega en Colombia, Y, para los cultivos transitorios, la HHA anual es de 847,1 millones de m³; teniendo el valor mayor el arroz de riego, seguido de la papa y el maíz. Y, el menor valor fue para el cultivo de soya. En lo relacionado con la huella hídrica verde (HHV) , para los cultivos permanentes, el mayor de valor de HHV fue para el café 11.822,3 millones de m³ /año, seguido por el cultivo de caña, palma de aceite y plátano. Y en relación a los cultivos transitorios, es el maíz es el de mayor HHV, seguido del arroz de riego y el secano mecanizado. Por su parte, las menores HHV las presentan la zanahoria, el tomate y el trigo.
+        p(data-aos="fade-up" style="overflow-x: hidden !important") Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris) Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial
       .col-auto
         figure
           img(src='@/assets/curso/temas/tema2/8.svg').m-auto(data-aos="fade-right")   
@@ -127,7 +127,7 @@
       .col-auto
         a.anexo(:href="obtenerLink('/downloads/Anexo1_EstimacionProduccionHuellaHidrica_Tabla.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg", alt="“Estimación de la huella hídrica de la producción agrícola en Colombia”. En esta table se muestran diferentes productos y la cantidad de huella hídrica tanto verde, como azul y gris en mm3/año que requiere.")
+            img(src="@/assets/template/icono-pdf.svg", alt="“Estimación de la huella hídrica de la producción agrícola en Colombia”. En esta table se muestran diferentes productos y la cantidad de huella hídrica tanto verde, como azul y gris en m³/año que requiere.")
           .anexo__texto
             b #[ Anexo. ]  
             | Estimación Producción Huella Hídrica
