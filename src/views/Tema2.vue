@@ -33,7 +33,7 @@
 
       .cont_2_1(style="position:relative;")
         .titulo-segundo.color-acento-contenido(style="position:relative")
-          h2#t_2_1 2.1  Huella hídrica del sector productivo.   
+          h2#t_2_1 2.1  Huella hídrica del sector productivo
 
         p.mb-5.py-1 Todos los sectores productivos usan agua en el desarrollo de sus actividades, es decir, hacen una demanda hídrica como se observa en la figura 1 y, mediante la cuantificación de la huella hídrica, se puede establecer el volumen de agua directa e indirecta usada y contaminada asociada al desarrollo de la actividad económica y el proceso productivo del sector, para así lograr fortalecer el concepto de sostenibilidad ambiental, encaminado al aprovechamiento y uso racional del recurso.
         p.mb-5.py-1 Dentro los sectores productivos más estudiados, a los cuales se les ha determinado la huella hídrica en diversos países, están:
@@ -72,20 +72,21 @@
                 img(src='@/assets/curso/temas/tema2/6.png', alt="“Ecuaciones huella hídrica”. En estas tarjetas se presentan dos fórmulas matemáticas utilizadas para hallar la huella hídrica azul y verde.")
 
           h3.text-center HH azul = 10 * Eta azul * As
-          .col-sm-12.col-lg-9.mx-5
+          .col-sm-12.col-lg-11.mx-3
             ul(style="color:black").lista-ul--color.pt-4               
               li
                 |● 
-                b #[i HH verde: ]  
-                | huella hídrica azul (Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris) Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial/mes) 
+                b #[i HH azul: ]  
+                | huella hídrica azul (m3/mes)
               li
                 |● 
-                b #[i Eta verde: ]  
+                b #[i Eta azul: ]  
                 | corresponde a la evapotranspiración mensual azul ajustada (mm)
               li
                 |● 
                 b #[i As: ]  
-                | área sembrada (ha). El *10* representa el factor de conversión que permite incorporar la evapotranspiración en mm y el área sembrada en ha para obtener la huella hídrica azul m³
+                | área sembrada (ha). 
+                p El *10* representa el factor de conversión que permite incorporar la evapotranspiración en mm y el área sembrada en ha para obtener la huella hídrica azul m³
            
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-adicional-3.p-4(style="background-color:#A5D6A7; overflow-x: hidden !important")
@@ -95,15 +96,15 @@
                 img(src='@/assets/curso/temas/tema2/7.png', )
 
           h3.text-center HH verde = 10 * Eta azul x As
-          .col-sm-12.col-lg-9.mx-5
+          .col-sm-12.col-lg-11.mx-3
             ul(style="color:black").lista-ul--color.pt-4                
               li
                 |● 
-                b #[i HH azul: ]  
+                b #[i HH verde: ]  
                 | huella hídrica verde (m³/mes)
               li
                 |● 
-                b #[i Eta azul: ]  
+                b #[i Eta verde: ]  
                 | evapotranspiración mensual dada en mm
               li
                 |● 
@@ -136,7 +137,7 @@
     
     .cont_2_2(style="position:relative;")
       .titulo-segundo.color-acento-contenido(style="position:relative")
-        h2#t_2_2 2.2 Huella hídrica de una etapa del proceso.  
+        h2#t_2_2 2.2 Huella hídrica de una etapa del proceso
 
     .row.align-items-center.my-3.col-lg-12.m-auto        
         .col-auto
@@ -271,65 +272,65 @@
         figure
           img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
       
-    p.m-5 Por tanto, la huella hídrica puede calcularse de 3 formas, desde:
+    p.my-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
     
-    SlyderF(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
-        .row.justify-content-center
-        h2.text-center Suma de Cadenas <br> (Para casos específicos)
-        p.text-center Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan asociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto.
-        .row.justify-content-center.mb-5
-          .col-8.mt-5
-              img(src='@/assets/curso/temas/tema2/17.svg' alt='“Cálculo huella hídrica”. En esta slider muestran las diferentes formulas que se deben aplicar para calcular la huella hídrica por medio de dos formas: ⦁ Suma de cadenas ⦁ Secuencia acumulativa')
 
-      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
-        .row.justify-content-center
-        h2.text-center Donde:
-        b #[ K: ]  
-        | etapas del proceso <br>
-        b #[ HHprod (S): ]  
-        | Huella hídrica de la etapa S del proceso (volumen/tiempo) <br>
-        b #[ Pp: ]  
-        | Cantidad producida del producto p (masa/tiempo)
-        p.text-center.mt-5 También existe el caso el que se procesa únicamente un producto de entrada para la producción de un producto final, siendo el cálculo así:
-        .row.justify-content-center.mb-5
-          .col-8.mt-5
-            img(src='@/assets/curso/temas/tema2/18.svg' )
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+      .row(titulo="Suma de cadenas (para casos específicos)")
+        .col-md-2
+          figure
+            img(src='@/assets/curso/temas/tema2/26.svg', alt='“Cálculo huella hídrica”. En esta slider muestran las diferentes formulas que se deben aplicar para calcular la huella hídrica por medio de dos formas: ⦁ Suma de cadenas ⦁ Secuencia acumulativa')
 
-      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
-        .row.justify-content-center
-        h2.text-center.m-0 Secuencial Acumulativo 
-        h2.text-center (Genérico)
-        p.text-center Es una forma genérica de calcular la HH de un producto basado en las HH de los productos de entrada que fueron necesarias en la última etapa de producción para generar el producto final y la HH de proceso de esa etapa del proceso.
-        p.text-center En el caso en que se tenga un producto único y varios productos finales, se debe distribuir la HH del producto de entrada a los diferentes productos, ya sea de forma proporcional al valor de los productos finales o proporcionales al peso de los productos.
-        .row.justify-content-center.mt-5
-          img(src='@/assets/curso/temas/tema2/19.svg')
+        .col-md-10.mb-4.mb-md-0
+          p Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan sociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto. 
+          figure
+            img.mb-4(src='@/assets/curso/temas/tema2/28.svg', alt='')
+          p Donde
+          b #[ K: ]  
+          | etapas del proceso 
+          b #[ HHprod (S): ]  
+          | Huella hídrica de la etapa S del proceso (volumen/tiempo) 
+          b #[ Pp: ]  
+          | Cantidad producida del producto p (masa/tiempo)
+          p.my-4 También existe el caso el que se procesa únicamente un producto de entrada para la producción de un producto final, siendo el cálculo así:
+                    
+          figure
+            img.mb-4(src='@/assets/curso/temas/tema2/29.svg', alt='')
+          b #[ FP (p,i): ]  
+          | fracción de producto   
 
-      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
-        .row.justify-content-center
-        h2.text-center Donde:
-        b #[ HHprod (p): ]  
-        | Huella hídrica del producto final (volumen/masa)  <br> <br>
-        b #[ y:  ]  
-        | productos de entrada <br> <br>
-        b #[ HHprod (i): ]  
-        |  Huella hídrica del producto de entrada <br>  <br>
-        b #[ HHprod (p): ]  
-        | Huella hídrica de proceso de la etapa de proceso que transforma los productos de entrada (y) en los productos finales (z), expresados en uso de agua por unidad de producto procesado (p) (volumen/masa)  <br>  <br>
-        b #[ FP (p,i): ]  
-        | fracción de producto <br> <br>
-        b #[ Fv (p):  ]  
-        | fracción de valor                      
 
-      .tarjeta.color-acento-botones.p-4(style="background-color:#BAEAFF;")
-        .row.justify-content-center
-        p.text-center La fracción de un producto final  que resulta del procesamiento de un producto de entrada se define como la cantidad de producto final obtenido por la cantidad de producto de entrada 
-        .row.justify-content-center.mb-5
-          .col-8.mt-5
-              img(src='@/assets/curso/temas/tema2/20.svg' )  
-        p.text-center.mb-5 La fracción de valor de un producto final se define como la relación entre el valor en el mercado de este producto y el agregado de mercado de todos los productos finales resultante de los productos de entrada
-        .row.justify-content-center.mb-5
-          img(src='@/assets/curso/temas/tema2/21.svg' )        
+
+      .row(titulo="Secuencial Acumulativo (Genérico)")
+        .col-md-2
+          figure
+            img(src='@/assets/curso/temas/tema2/27.svg', alt='')
+
+        .col-md-10.mb-4.mb-md-0
+          p Es una forma genérica de calcular la HH de un producto basado en las HH de los productos de entrada que fueron necesarias en la última etapa de  producción para generar el producto final y la HH de proceso de esa etapa del proceso.  
+          p En el caso en que se tenga un producto único y varios productos finales, se debe distribuir la HH del producto de entrada a los diferentes productos, ya sea de forma proporcional al valor de los productos finales o proporcionales al peso de los productos.
+          figure
+            img.mb-4(src='@/assets/curso/temas/tema2/30.svg', alt='')
+          p Donde
+          b #[ HHprod (p): ]  
+          | Huella hídrica del producto final (volumen/masa),            
+          b #[ y:]  
+          | productos de entrada,  
+          b #[ HHprod (i): ]  
+          | Huella hídrica del producto de entrada, 
+          b #[ HHprod (p):]  
+          | Huella hídrica de proceso de la etapa de proceso que transforma los productos de entrada (y) en los productos finales (z), expresados en uso de agua por unidad de producto procesado (p) volumen/masa),
+          b #[ FP (p,i): ]  
+          | fracción de producto,
+          b #[ Fv (p):  ]  
+          | fracción de valor.
+          p.mt-4 La fracción de un producto final  que resulta del procesamiento de un producto de entrada se define como la cantidad de producto final obtenido por la cantidad de producto de entrada.
+                    
+          figure
+            img.mb-4(src='@/assets/curso/temas/tema2/31.svg', alt='')
+          p La fracción de valor de un producto final se define como la relación entre el valor en el mercado de este producto y el agregado de mercado de todos los productos finales resultante de los productos de entrada.
+          figure
+            img.mb-4(src='@/assets/curso/temas/tema2/32.svg', alt='')    
 
     Separador.mt-5
 
