@@ -51,16 +51,16 @@
               figure
               img(src="@/assets/curso/temas/tema1/6.svg" data-aos="zoom-in-up" alt="“Sistema de indicadores hídricos”. En esta infografía se muestran los diferentes indicadores hídricos tales como: ⦁ Indicadores de sistemas hídricos: compuesto por el índice de aridez, índice de retención y regulación hídrica, índice de sequia y precipitación, índice de rendimientos medio sedimentos. ⦁ Indicadores de intervención antrópica: compuesto a su vez por los siguientes indicadores: ⦁ Indicadores de riesgo: Índice de Vulnerabilidad por Desabastecimiento ⦁ Indicador de presión por uso de agua: índice de Uso del Agua Superficial, índice de Presión Hídrica al Ecosistema, índice de Agua no Retornada a la Cuenca, índice de Eficiencia en el Uso del Agua. ⦁ Indicadores de estado de calidad y presión por contaminación: índice de Calidad de Agua, índice de Alteración Potencial a la Calidad del Agua.")
             .tarjeta.color-adicional-2.p-3(x="9.5%" y="47.5%" numero="1"  style="background-color:#12263F;")
-              p.mb-0(style="color:#FFF;") #[b IA:]  índice de aridez
+              p.mb-0(style="color:#FFF;") #[b IA:]  Índice de Aridez
 
             .tarjeta.color-adicional-2.p-3(x="2.5%" y="21.5%" numero="2"  style="background-color:#12263F;")
               p.mb-0(style="color:#FFF;") #[b IRH:]  Índice de Retención y Regulación Hídrica
 
             .tarjeta.color-adicional-2.p-3(x="21.5%" y="2%" numero="3"  style="background-color:#12263F;")
-              p.mb-0(style="color:#FFF;") #[b SPI:] Índice de Sequía y precipitación
+              p.mb-0(style="color:#FFF;") #[b SPI:] Índice de Sequía y Precipitación
 
             .tarjeta.color-adicional-2.p-3(x="48%" y="9%" numero="4"  style="background-color:#12263F;")
-              p.mb-0(style="color:#FFF;") #[b IRS:] Índice de Rendimiento medio Sedimentos
+              p.mb-0(style="color:#FFF;") #[b IRS:] Índice de Rendimiento Medio Sedimentos
 
             .tarjeta.color-adicional-2.p-3(x="57%" y="11.5%" numero="5"  style="background-color:#12263F;")
               p.mb-0(style="color:#FFF;") #[b IUA:] Índice de Uso del Agua Superficial

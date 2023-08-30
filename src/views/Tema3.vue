@@ -24,7 +24,7 @@
             .col-lg
               p.my-5(style="position:relative") Identificación de los 
                 b #[ criterios de sostenibilidad ]
-                | (ambientales, sociales y económicos)                
+                | (ambientales, sociales y económicos).                
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema3/2.png', alt='“Fases del análisis de sostenibilidad”. En la imagen se muestra un paso a paso que se debe seguir para considerar si la huella hídrica ha dejado de ser sostenible. Estos pasos son: ⦁ Identificación de criterios de sostenibilidad. ⦁ Identificación de puntos críticos. ⦁ Cuantificación de los impactos primarios. ⦁ Cuantificación de los impactos secundarios.').img125
@@ -36,7 +36,7 @@
             .col-lg
               p.my-5(style="position:relative") Identificación de los 
                 b #[ puntos críticos ]
-                | (subzonas de captación específicas, períodos del año)    
+                | (subzonas de captación específicas, períodos del año).    
           .row
             .col-lg
               p.my-5(style="position:relative") Identificación y cuantificación de los 

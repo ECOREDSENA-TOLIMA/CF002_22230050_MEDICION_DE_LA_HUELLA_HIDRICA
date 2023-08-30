@@ -244,8 +244,7 @@ export default {
     {
       referencia:
         'WWF. (2012). Una mirada a la agricultura de Colombia desde su Huella Hídrica.',
-      link:
-        'http://www.huellahidrica.org/Reports/Arevalo-2012-HuellaHidricaColombia.pdf.',
+      link: 'https://wwfeu.awsassets.panda.org/downloads/hh_colombia_6b.pdf',
     },
   ],
   creditos: [
