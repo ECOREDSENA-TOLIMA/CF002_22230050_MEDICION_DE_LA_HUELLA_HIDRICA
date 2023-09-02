@@ -450,7 +450,7 @@
           
           .col-sm-12.col-lg-12
             .titulo-sexto.mb-0.color-secundario.mb-1
-              p.mb-0 #[b Figura 13] 
+              p.mb-0 #[b Figura 14] 
                 i Cálculo de la huella hídrica (HH) en un área
 
           .col-auto
