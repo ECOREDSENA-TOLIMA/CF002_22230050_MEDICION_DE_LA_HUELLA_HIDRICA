@@ -38,21 +38,27 @@
         p.mb-5.py-1 Todos los sectores productivos usan agua en el desarrollo de sus actividades, es decir, hacen una demanda hídrica como se observa en la figura 1 y, mediante la cuantificación de la huella hídrica, se puede establecer el volumen de agua directa e indirecta usada y contaminada asociada al desarrollo de la actividad económica y el proceso productivo del sector, para así lograr fortalecer el concepto de sostenibilidad ambiental, encaminado al aprovechamiento y uso racional del recurso.
         p.mb-5.py-1 Dentro los sectores productivos más estudiados, a los cuales se les ha determinado la huella hídrica en diversos países, están:
 
-      .row.align-items-center.my-5.col-lg-8.m-auto        
-        .col-auto
-          figure
-            img(src='@/assets/curso/temas/tema2/3.svg').m-auto(data-aos="fade-right")
-
       .row.justify-content-center.mb-5(data-aos="fade-right")        
         .col-sm-12.col-lg-10
           .titulo-sexto.mb-0.color-secundario.mb-1
             p.mb-0 #[b Figura 1] 
+              i Sectores productivos que han determinado la huella hídrica. 
+
+      .row.align-items-center.my-5.col-lg-8.m-auto        
+        .col-auto
+          figure
+            img(src='@/assets/curso/temas/tema2/3.svg').m-auto(data-aos="fade-right" alt="Figura 1. Los sectores productivos que han determinado la huella hídrica son: agropecuario, doméstico, generación de energía, hidrocarburos y petróleo, minero, industrial piscícola, servicios y construcción.")
+
+      .row.justify-content-center.mb-5(data-aos="fade-right")        
+        .col-sm-12.col-lg-10
+          .titulo-sexto.mb-0.color-secundario.mb-1
+            p.mb-0 #[b Figura 2] 
               i Componentes de la huella hídrica 
 
       .row.align-items-center.my-0.col-lg-10.m-auto.mb-5        
         .col-auto
           figure
-            img(src='@/assets/curso/temas/tema2/4.svg').m-auto(data-aos="fade-right" alt="“Demanda hídrica”. En la imagen se evidencia La distribución de la demanda hídrica teniendo en cuenta: ⦁ Uso de agua como insumo ⦁ Uso de agua como materia prima Cadenas de uso Sector servicios  Sector piscícola Sector generación Sector hidrocarburos Sector pecuario Sector agrícola Sector industrial Sector minero  ⦁ Uso de agua para satisfacción directa de las necesidades humanas Uso doméstico Retorno Pérdidas Vertimientos Descargas por agua turbinada y caudales de exceso")
+            img(src='@/assets/curso/temas/tema2/4.svg').m-auto(data-aos="fade-right" alt="“Figura 2. Componentes de la huella hídrica está integrada por la demanda, clasificada en uso de agua como insumo, uso de agua como materia prima y uso de agua para satisfacción directa de las necesidades humanas donde se identifican las cadenas de uso y el uso doméstico.")
 
       p.mb-5.py-1 A nivel mundial se han adelantado por varias entidades de carácter público y privado estudios sobre la cuantificación de la huella hídrica los cuales, han permitido conocer el volumen real de agua empleado por cada sector de la economía; para el caso específico de Colombia, el Instituto de Hidrología Meteorología y Estudios Ambientales – IDEAM en coordinación con Embajada Suiza - Agencia Suiza para la Cooperación y el Desarrollo – COSUDE, Good Stuff International Latinoamérica y El Caribe GSI-LAC y Corporación Centro de Ciencia y Tecnología de Antioquia –CTA, llevaron a cabo la evaluación multisectorial de la huella hídrica en Colombia, donde se realiza la cuantificación para diversos sectores productivos, en los que se incluyen agropecuario, doméstico, industrial, energético y petrolero. A pesar de que el objetivo para cada sector es cuantificar la huella hídrica, todos emplean fórmulas y procedimientos distintos, acordes a la información existente y a los resultados que se quieren obtener.
       p.mb-5.py-1 El siguiente recurso toma por ejemplo el sector agropecuario:
@@ -251,26 +257,26 @@
     .row.justify-content-center.m-5(data-aos="fade-right")        
         .col-sm-12.col-lg-12
           .titulo-sexto.mb-0.color-secundario.mb-1
-            p.mb-0 #[b Figura 2] 
+            p.mb-0 #[b Figura 3] 
               i Sistema de producción simple
 
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción simple”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción simple." )
+          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right", alt="Figura 3 “Sistema de producción simple”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción simple." )
       
     p.mt-5 Pero normalmente, no existe la producción simple, sino que se da un enfoque secuencial acumulativo, como se observa en la figura 3, donde el sistema de producción se basa en la entrada de productos los cuales se transforman nuevamente en varios productos finales (no solo uno como en la simple); los productos finales se convierten en materias primas para la elaboración de nuevos productos finales. O también se puede dar que se tenga un producto único de entrada y varios productos finales.
     
     .row.justify-content-center.m-5(data-aos="fade-right")        
         .col-sm-12.col-lg-12
           .titulo-sexto.mb-0.color-secundario.mb-1
-            p.mb-0 #[b Figura 3] 
+            p.mb-0 #[b Figura 4] 
               i Sistema de producción secuencial acumulativo
 
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
+          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="Figura 4“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
       
     p.my-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
     

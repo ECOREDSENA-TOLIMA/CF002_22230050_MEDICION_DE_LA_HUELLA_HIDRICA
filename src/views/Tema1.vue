@@ -41,7 +41,7 @@
             .col-sm-12.col-lg-2
               img.m-3.pt-4(src='@/assets/curso/temas/tema1/5.svg', )    
             .col-sm-12.col-lg-6
-              p.m-2.py-1 Para lograr determinar el estado de recurso hídrico en el país, el IDEAM en el documento del Estudio Nacional del Agua - ENA, emplea unos indicadores tales como: la aridez, regulación hídrica, rendimiento de sedimentos y sequía que permiten establecer el estado natural del recurso y, otros indicadores como los de estado de calidad y presión por contaminación, los de presión por uso del agua y los de riesgo que definen las variaciones debido a la intervención antrópica y sus efectos de carácter parcial o total y temporal o definitivo en la calidad y cantidad del agua, esto facilita explicar la relación entre oferta y demanda del agua tanto superficial como subterránea, como lo describe el gráfico de Sistema de indicadores hídricos a continuación:
+              p.m-2.py-1 Para lograr determinar el estado de recurso hídrico en el país, el IDEAM en el documento del Estudio Nacional del Agua - ENA, emplea unos indicadores tales como: la aridez, regulación hídrica, rendimiento de sedimentos y sequía que permiten establecer el estado natural del recurso y, otros indicadores como los de estado de calidad y presión por contaminación, los de presión por uso del agua y los de riesgo que definen las variaciones debido a la intervención antrópica y sus efectos de carácter parcial o total y temporal o definitivo en la calidad y cantidad del agua, esto facilita explicar la relación entre oferta y demanda del agua tanto superficial como subterránea, como lo describe el gráfico de sistema de indicadores hídricos a continuación:
 
     figure.pb-4
       .row.justify-content-center(data-aos="fade-right")
