@@ -126,7 +126,7 @@
 
     .row.justify-content-center.m-5
       .col-auto
-        a.anexo(:href="obtenerLink('/downloads/Anexo1_EstimacionProduccionHuellaHidrica_Tabla.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('/downloads/Anexo1_EstimacionProduccionHuellaHidrica.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg", alt="“Estimación de la huella hídrica de la producción agrícola en Colombia”. En esta table se muestran diferentes productos y la cantidad de huella hídrica tanto verde, como azul y gris en m³/año que requiere.")
           .anexo__texto
