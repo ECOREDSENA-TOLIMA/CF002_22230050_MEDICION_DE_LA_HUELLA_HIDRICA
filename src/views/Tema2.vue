@@ -158,13 +158,20 @@
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/WTQzWcNSG8E" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mt-5 Mientras que en la etapa del proceso con la Huella hídrica gris, es un indicador de la contaminación que se está generando al agua y expresa el volumen de agua necesario para asimilar la carga de estos contaminantes; su cálculo se realiza dividiendo la carga de contaminante entre la diferencia de la norma de calidad de agua de ese contaminante y su concentración natural en la masa de agua receptora. Así:
+    p.mt-5 Mientras que en la etapa del proceso con la Huella hídrica gris, es un indicador de la contaminación que se está generando al agua y expresa el volumen de agua necesario para asimilar la carga de estos contaminantes; su cálculo se realiza dividiendo la carga de contaminante entre la diferencia de la norma de calidad de agua de ese contaminante y su concentración natural en la masa de agua receptora; así:
 
     .row.mt-5.col-lg-10.m-auto
       .tarjeta.p-3(style="background-color:#F9D9D9;")
         .row.justify-content-around.align-items-center
+        
+          .row.justify-content-center.mb-5(data-aos="fade-right")        
+            .col-sm-12.col-lg-10
+              .titulo-sexto.mt-4.color-secundario.mb-1
+                p.m-0 #[b Figura 3] 
+                  i Cálculo de la huella hídrica gris (HHG) 
+
           .col-auto
-            img.m-3(src="@/assets/curso/temas/tema2/10.svg")
+            img.m-1(src="@/assets/curso/temas/tema2/10.svg")
           .col.m-5
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -179,11 +186,18 @@
                 b #[ Cnat: ]  
                 | concentración natural (masa/volumen). Es la concentración del medio que tendrá lugar si en una zona de captación no existe intervención por parte del hombre. El Cnat = 0 para sustancias de origen antrópica que de forma natural no están presentes en el agua o cuando no se conoce con presión la concentración pero se estiman que son bajas.
 
-    p.mt-5 Existen procesos productivos donde las aguas residuales contaminación a las masas de agua superficial con productos específicos, es decir, se conoce la fuente puntual de contaminación, para casos la huella hídrica gris, se puede estimar la carga midiendo el volumen del efluente y la concentración de un producto químico en este, así:
+    p.mt-5 Existen procesos productivos donde las aguas residuales contaminan a las masas de agua superficial con productos específicos, es decir, se conoce la fuente puntual de contaminación, para casos la huella hídrica gris, se puede estimar la carga midiendo el volumen del efluente y la concentración de un producto químico en este, así:
     
     .row.mt-5.col-lg-10.m-auto
       .tarjeta.p-3(style="background-color:#F9D9D9;")
         .row.justify-content-around.align-items-center
+
+          .row.justify-content-center.mb-5(data-aos="fade-right")        
+              .col-sm-12.col-lg-10
+                .titulo-sexto.mt-4.color-secundario.mb-1
+                  p.m-0 #[b Figura 4] 
+                    i Cálculo de la carga contaminante - huella hídrica gris (HHG) 
+
           .col-auto
             img.m-3(src="@/assets/curso/temas/tema2/11.svg")
           .col.m-5
@@ -200,11 +214,18 @@
                 | concentración real del agua extraída
                 p.mt-2 Normalmente la cantidad de sustancias químicas depositadas en una masa de agua (Efl * Cefl) será igual o mayor a la cantidad de sustancias químicas presentes en el agua extraída (Extr * Creal) dando como resultado que la carga contaminante sea positiva. En casos excepcionales se puede obtener una carga negativa (Cefl < Creal o Efl < Extr) que debe ser ignorada en el cálculo de la huella hídrica.
                 
-    p.mt-5 Pero, en muchas ocasiones existen otros casos donde las fuentes de contaminación son desconocidas o confusas, cuando se aplica o deposita un producto en el suelo puede que pasar que estos se filtren a las aguas subterráneas o que sean arrastrados hasta una corriente de agua superficial sin conocer su composición, para lo cual el cálculo se hace:
+    p.mt-5 Pero, en muchas ocasiones existen otros casos donde las fuentes de contaminación son desconocidas o confusas, cuando se aplica o deposita un producto en el suelo puede pasar que estos se filtren a las aguas subterráneas o que sean arrastrados hasta una corriente de agua superficial sin conocer su composición, para lo cual el cálculo se hace:
     
     .row.mt-5.col-lg-10.m-auto
       .tarjeta.p-3(style="background-color:#F9D9D9;")
         .row.justify-content-around.align-items-center
+
+          .row.justify-content-center.mb-5(data-aos="fade-right")        
+                .col-sm-12.col-lg-10
+                  .titulo-sexto.mt-4.color-secundario.mb-1
+                    p.m-0 #[b Figura 5] 
+                      i Cálculo de la carga contaminante con fuente desconocida - huella hídrica gris (HHG) 
+
           .col-auto
             img.m-3(src="@/assets/curso/temas/tema2/12.svg")
           .col.m-5
@@ -221,6 +242,13 @@
     .row.mt-5.col-lg-10.m-auto
       .tarjeta.p-3(style="background-color:#F9D9D9;")
         .row.justify-content-around.align-items-center
+
+          .row.justify-content-center.mb-5(data-aos="fade-right")        
+                  .col-sm-12.col-lg-10
+                    .titulo-sexto.mt-4.color-secundario.mb-1
+                      p.m-0 #[b Figura 6] 
+                        i Cálculo de concentración de contaminantes luego de su tratamiento - huella hídrica gris (HHG) 
+
           .col-auto
             img.m-3(src="@/assets/curso/temas/tema2/13.svg")
           .col.m-5
@@ -252,31 +280,31 @@
           .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
             p.mb-2.py-2(style="overflow-x: hidden !important") Adicionalmente, a las huellas hídricas azul, verde y gris, en muchos casos para la cuantificación es necesario determinar otra huella hídrica denominada huella virtual, la cual hace referencia a la cantidad de agua requerida para la elaboración de un producto o servicio, debido a que así no sea tangible se requieren una cantidad considerable de litros de agua para producir los bienes y servicios, porque no solo se cuantifica el agua directa sino que también las que se encuentran detrás, la indirecta. Es decir, se incluye el agua utilizada durante el cultivo, el crecimiento, el procesamiento, la fabricación, el transporte y la venta del producto o al contenido de agua internacional o interregionales, cuando se importa o exporta.
 
-    p.mt-5 Para el cálculo de la huella hídrica de un producto, como lo indica la metodología establecida en el manual de evaluación de la huella hídrica Hoekstra, A. Y., et al., (2011), se debe tener presente que existen varías formas de producción, las cuales pueden ser catalogado como simple como se observa en la figura 2, donde el objetivo final es la producción de un solo producto y el sistema emplea varias una o varias etapas, las cuales pueden ocurrir en serio o de forma paralela.
+    p.mt-5 Para el cálculo de la huella hídrica de un producto, como lo indica la metodología establecida en el manual de evaluación de la huella hídrica Hoekstra, A. Y., et al., (2011), se debe tener presente que existen varías formas de producción, las cuales pueden ser catalogado como simple como se observa en la figura 3, donde el objetivo final es la producción de un solo producto y el sistema emplea varias una o varias etapas, las cuales pueden ocurrir en serio o de forma paralela.
 
     .row.justify-content-center.m-5(data-aos="fade-right")        
         .col-sm-12.col-lg-12
           .titulo-sexto.mb-0.color-secundario.mb-1
-            p.mb-0 #[b Figura 3] 
+            p.mb-0 #[b Figura 7] 
               i Sistema de producción simple
 
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right", alt="Figura 3 “Sistema de producción simple”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción simple." )
+          img(src='@/assets/curso/temas/tema2/15.svg').m-auto(data-aos="fade-right", alt="Figura 7 “Sistema de producción simple”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción simple." )
       
     p.mt-5 Pero normalmente, no existe la producción simple, sino que se da un enfoque secuencial acumulativo, como se observa en la figura 3, donde el sistema de producción se basa en la entrada de productos los cuales se transforman nuevamente en varios productos finales (no solo uno como en la simple); los productos finales se convierten en materias primas para la elaboración de nuevos productos finales. O también se puede dar que se tenga un producto único de entrada y varios productos finales.
     
     .row.justify-content-center.m-5(data-aos="fade-right")        
         .col-sm-12.col-lg-12
           .titulo-sexto.mb-0.color-secundario.mb-1
-            p.mb-0 #[b Figura 4] 
+            p.mb-0 #[b Figura 8] 
               i Sistema de producción secuencial acumulativo
 
     .row.mt-5.col-lg-8.m-auto
       .col.mb-3.mb-sm-0
         figure
-          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="Figura 4“Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
+          img(src='@/assets/curso/temas/tema2/16.svg').m-auto(data-aos="fade-right", alt="Figura 8 “Sistema de producción secuencial acumulativo”. En la imagen se presenta el proceso para calcular la huella hídrica de un producto, teniendo en cuenta el concepto de producción secuencial acumulativa.")
       
     p.my-5 Por tanto, la huella hídrica puede calcularse de 2 formas, desde:
     
@@ -289,6 +317,13 @@
 
         .col-md-10.mb-4.mb-md-0
           p Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan sociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto. 
+          
+          .row.justify-content-center.m-5(data-aos="fade-right")        
+            .col-sm-12.col-lg-12
+              .titulo-sexto.mb-0.color-secundario.mb-1
+                p.mb-0 #[b Figura 9] 
+                  i Suma de cadenas
+          
           figure
             img.mb-4(src='@/assets/curso/temas/tema2/28.svg', alt='')
           p Donde
@@ -299,7 +334,13 @@
           b #[ Pp: ]  
           | cantidad producida del producto p (masa/tiempo)
           p.my-4 También existe el caso el que se procesa únicamente un producto de entrada para la producción de un producto final, siendo el cálculo así:
-                    
+
+          .row.justify-content-center.m-5(data-aos="fade-right")        
+            .col-sm-12.col-lg-12
+              .titulo-sexto.mb-0.color-secundario.mb-1
+                p.mb-0 #[b Figura 10] 
+                  i Cálculo de la huella hídrica en la etapa de un proceso - HHprod (p)
+
           figure
             img.mb-4(src='@/assets/curso/temas/tema2/29.svg', alt='')
           b #[ FP (p,i): ]  
@@ -315,6 +356,13 @@
         .col-md-10.mb-4.mb-md-0
           p Es una forma genérica de calcular la HH de un producto basado en las HH de los productos de entrada que fueron necesarias en la última etapa de  producción para generar el producto final y la HH de proceso de esa etapa del proceso.  
           p En el caso en que se tenga un producto único y varios productos finales, se debe distribuir la HH del producto de entrada a los diferentes productos, ya sea de forma proporcional al valor de los productos finales o proporcionales al peso de los productos.
+          
+          .row.justify-content-center.m-5
+            .col-sm-12.col-lg-12
+              .titulo-sexto.mb-0.color-secundario.mb-1
+                p.mb-0 #[b Figura 11] 
+                  i Distribución de la huella hídrica de un producto (HHP) - a partir de un producto de entrada en diferentes productos finales
+
           figure
             img.mb-4(src='@/assets/curso/temas/tema2/30.svg', alt='')
           p Donde
@@ -331,10 +379,23 @@
           b #[ Fv (p):  ]  
           | fracción de valor.
           p.mt-4 La fracción de un producto final  que resulta del procesamiento de un producto de entrada se define como la cantidad de producto final obtenido por la cantidad de producto de entrada.
-                    
+
+          .row.justify-content-center.m-5
+            .col-sm-12.col-lg-12
+              .titulo-sexto.mb-0.color-secundario.mb-1
+                p.mb-0 #[b Figura 12] 
+                  i Fracción de un producto final
+
           figure
             img.mb-4(src='@/assets/curso/temas/tema2/31.svg', alt='')
           p La fracción de valor de un producto final se define como la relación entre el valor en el mercado de este producto y el agregado de mercado de todos los productos finales resultante de los productos de entrada.
+          
+          .row.justify-content-center.m-5
+            .col-sm-12.col-lg-12
+              .titulo-sexto.mb-0.color-secundario.mb-1
+                p.mb-0 #[b Figura 13] 
+                  i Fracción del valor de un producto final en relación al valor en el mercado y agregado del producto
+          
           figure
             img.mb-4(src='@/assets/curso/temas/tema2/32.svg', alt='')    
 
@@ -386,6 +447,12 @@
     .row.mt-5.col-lg-10.m-auto
       .tarjeta.p-3(style="background-color:#F9D9D9;")
         .row.justify-content-around.align-items-center
+          
+          .col-sm-12.col-lg-12
+            .titulo-sexto.mb-0.color-secundario.mb-1
+              p.mb-0 #[b Figura 13] 
+                i Cálculo de la huella hídrica (HH) en un área
+
           .col-auto
             img.m-3(src="@/assets/curso/temas/tema2/25.svg")
           .col.m-5

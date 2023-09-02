@@ -19,7 +19,7 @@
     
     .row.align-items-center.my-5.col-lg-12.m-auto                
         .col
-          p.mb-0(data-aos="fade-up" ) Cuando un componente o sector de la económica aplica medidas para reducir su huella hídrica y adelanta acciones para compensar los impactos, genera beneficios no solo para él, sino que también indirectamente beneficia a otros sectores, como ejemplo cuando una empresa genera sus productos reduciendo su huella, por ende los consumidores al hacer uso del producto también la minimizan. 
+          p.mb-0(data-aos="fade-up" ) Cuando un componente o sector de la economía aplica medidas para reducir su huella hídrica y adelanta acciones para compensar los impactos, genera beneficios no solo para él, sino que también indirectamente beneficia a otros sectores, como ejemplo cuando una empresa genera sus productos reduciendo su huella, por ende los consumidores al hacer uso del producto también la minimizan. 
           p.mt-3 En el caso de neutralización del agua, puede ser total, es decir se anula la huella hídrica mediante la aplicación de medidas y estrategias, pero en otros casos es imposible lograrlo, lo que indicia que el concepto agua neutral no siempre está relacionado a cero huella hídrica, sino también se busca que los aspectos externos sociales, económicos y ambientales negativos sean reducidas tanto como sea posible y que la los impactos restantes derivados del uso del agua sean totalmente compensados mediante la inversión en proyectos que promuevan el uso sostenible y equitativo del agua en el medio ambiente y en la comunidad afectada.
         .col-auto.align-items-center
           figure.align-items-center
