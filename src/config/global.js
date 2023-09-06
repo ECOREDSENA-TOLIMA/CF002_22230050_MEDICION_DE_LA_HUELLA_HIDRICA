@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Evaluación y análisis de la huella hídrica',
     descripcionCurso:
-      'En este componente formativo se abordan temáticas relacionadas con la información sobre el estado y dinámica de las aguas en el país establecida el estudio nacional del agua realizado por el IDEAM, además se describirán las metodologías y fórmulas para calcular la huella hídrica, el análisis de sostenibilidad y las medidas existentes para reducir y mitigar la huella',
+      'En este componente formativo se abordan temáticas relacionadas con la información sobre el estado y dinámica de las aguas en el país establecida el estudio nacional del agua realizado por el IDEAM, además se describirán las metodologías y fórmulas para calcular la huella hídrica, el análisis de sostenibilidad y las medidas existentes para reducir y mitigar la huella.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -44,12 +44,12 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Huella hídrica del sector productivo.',
+            titulo: 'Huella hídrica del sector productivo',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Huella hídrica de una etapa del proceso.',
+            titulo: 'Huella hídrica de una etapa del proceso',
             hash: 't_2_2',
           },
           {
@@ -78,7 +78,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Medidas para reducir y mitigar la huella hídrica.',
+        titulo: 'Medidas para reducir y mitigar la huella hídrica',
         desarrolloContenidos: true,
       },
     ],

@@ -46,7 +46,7 @@
                   h4 Sector Agrícola
                   ul(style="color:black").lista-ul--color.pt-4               
                     |● Reemplazar la agricultura tradicional por la orgánica. <br>
-                    |● Reemplazar el sistema de riego tradicional a un por goteo o aspersores. <br>
+                    |● Reemplazar el sistema de riego tradicional a uno por goteo o aspersores. <br>
                     |● Aumentar la productividad del suelo mediante la implementación de la producción secano y mejorando las prácticas agrícolas. <br> 
                     |● Reducir el uso de fertilizantes y pesticidas. <br>
                     |● Optimizar el volumen y técnica de aplicación de sustancias químicas. <br>

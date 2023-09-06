@@ -122,7 +122,7 @@
     .row.align-items-center.my-5.col-lg-12.m-auto              
       .col
         p(data-aos="fade-up" style="overflow-x: hidden !important") Mientras que los resultados de evaluación multisectorial de la huella hídrica en Colombia, donde se realiza la cuantificación para diversos sectores productivos publicados por el IDEAM en el año 2015, arrojan que la huella hídrica azul (HHA) de los cultivos permanentes corresponde a 3.918,4 millones de m³ /año; el valor mayor corresponde al cultivo de palma de aceite, seguido del plátano y la caña de azúcar, para el cultivo de café no se reportó HHA, debido a que se considera que este cultivo no se riega en Colombia, Y, para los cultivos transitorios, la HHA anual es de 847,1 millones de m³; teniendo el valor mayor el arroz de riego, seguido de la papa y el maíz. Y, el menor valor fue para el cultivo de soya. En lo relacionado con la huella hídrica verde (HHV) , para los cultivos permanentes, el mayor de valor de HHV fue para el café 11.822,3 millones de m³ /año, seguido por el cultivo de caña, palma de aceite y plátano. Y en relación a los cultivos transitorios, es el maíz es el de mayor HHV, seguido del arroz de riego y el secano mecanizado. Por su parte, las menores HHV las presentan la zanahoria, el tomate y el trigo.
-        p(data-aos="fade-up" style="overflow-x: hidden !important") Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris). Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial
+        p(data-aos="fade-up" style="overflow-x: hidden !important") Por su parte, el estudio a nivel mundial adelantado por Mekonnen, M. M., & Hoekstra, A. Y., en el año 2011, denominado la huella hídrica verde, azul y gris de los cultivos y productos derivados de cultivos, determinó que la huella hídrica global relacionada con la producción de cultivos en el período 1996-2005 fue de 7404 mil millones de metros cúbicos por año (78 % verde, 12 % azul, 10 % gris). Se calculó una gran huella hídrica total para el trigo (1087), el arroz (992) y el maíz (770) El trigo y el arroz tienen las huellas de agua azul más grandes, y juntos representan el 45 % de la huella de agua azul mundial.
       .col-auto
         figure
           img(src='@/assets/curso/temas/tema2/8.svg').m-auto(data-aos="fade-right")   
@@ -316,7 +316,7 @@
             img(src='@/assets/curso/temas/tema2/26.svg', alt='“Cálculo huella hídrica”. En esta slider muestran las diferentes formulas que se deben aplicar para calcular la huella hídrica por medio de dos formas: ⦁ Suma de cadenas ⦁ Secuencia acumulativa')
 
         .col-md-10.mb-4.mb-md-0
-          p Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan sociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto. 
+          p Se puede utilizar únicamente en caso de que un sistema de producción genere un producto final. Entonces las huellas hídricas que puedan asociarse con las diferentes etapas del proceso se pueden atribuir por completo al producto resultante del sistema. Siendo la huella hídrica de un producto (HHP) igual a la suma de los procesos relevantes dividida entre la cantidad producida del producto. 
           
           .row.justify-content-center.m-5(data-aos="fade-right")        
             .col-sm-12.col-lg-12
@@ -434,7 +434,7 @@
         h3.text-center(style="color: #00574F !important") HH cons. indir = Σ p ( C (p) * HH * prad (p) )
         p.text-center(style="color: #00574F !important") La HH indirecta se refiere al consumo y la contaminación del agua relacionados con la producción de bienes y servicios usados por el consumidor, por ejemplo el agua utilizada en comida, ropa, papel, energía y bienes industriales; está se calcula multiplicando todos los productos por la HH de los respectivos productos.
         h3.text-center(style="color: #00574F !important") Donde:
-        p.text-center(style="color: #00574F !important") C(p): consumo de un producto p (unidades de producto / tiempo) HH *prod (p): huella hídrica de este producto (volumen de agua / unidad de producto)
+        p.text-center(style="color: #00574F !important") C(p): consumo de un producto p (unidades de producto / tiempo) HH *prod (p): huella hídrica de este producto (volumen de agua / unidad de producto).
 
     Separador.mt-5
 
