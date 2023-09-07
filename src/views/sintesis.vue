@@ -13,7 +13,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="“Síntesis”. En esa imagen se realiza la síntesis del componente formativo CF002 donde se muestran dos subtemas: ⦁ Huella hídrica Donde se habla de los cuantificadores volumétricos, análisis de sostenibilidad y la aplicación de medidas. ⦁ Instituto de hidrología, meterología y estudios ambientales IDEM. Donde se establece los procesos que se realiza la entidad ante la huella hídrica.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis. La huella hídrica se distribuye en dos vertientes una el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) y la Huella Hídrica las cuales se desarrollan dando cuenta de las instituciones, instancias, métricas, sectores, precisiones para su calculo con el fin de cuantificar el uso adecuado del agua.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

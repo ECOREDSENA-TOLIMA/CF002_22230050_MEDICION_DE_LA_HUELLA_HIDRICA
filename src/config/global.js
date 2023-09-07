@@ -113,7 +113,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/cfa_002_22230050.zip',
+        download: 'downloads/CFA_02_22230050.zip',
       },
       {
         icono: 'fas fa-download',
@@ -131,7 +131,7 @@ export default {
     {
       tema: 'Estudio nacional del agua',
       referencia:
-        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: Ideam: 452 pp.',
+        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: IDEAM: 452 pp.',
       tipo: 'Documento',
       link:
         'https://cta.org.co/descargables-biblionet/agua-y-medio-ambiente/Estudio-Nacional-del-Agua-2018.pdf?',
@@ -238,7 +238,7 @@ export default {
     },
     {
       referencia:
-        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: Ideam: 452 pp',
+        'IDEAM (2019). Estudio Nacional del Agua 2018. Bogotá: IDEAM: 452 pp',
       link: '',
     },
     {

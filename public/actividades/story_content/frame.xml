@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad did&amp;#225;ctica2" />
+              <option name="title_text" value="Actividad did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -226,7 +226,7 @@
           <color name="focus_rect">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFF00" alpha="100" stop="0" />
+                <color rgb="0x9CEB78" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -985,7 +985,7 @@
           <color name="btn_text_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1006,8 +1006,8 @@
           <color name="btn_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFDBC2E" alpha="100" stop="0" />
-                <color rgb="0xFFC000" alpha="100" stop="255" />
+                <color rgb="0x1F5B3B" alpha="100" stop="0" />
+                <color rgb="0x2F8859" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1022,8 +1022,8 @@
           <color name="btn_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xF36F21" alpha="100" stop="0" />
-                <color rgb="0xF36F21" alpha="100" stop="255" />
+                <color rgb="0x39A900" alpha="100" stop="0" />
+                <color rgb="0x1C5201" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1070,16 +1070,16 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
-                <color rgb="0x000000" alpha="100" stop="255" />
+                <color rgb="0x292929" alpha="100" stop="0" />
+                <color rgb="0x292929" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
-                <color rgb="0x000000" alpha="100" stop="255" />
+                <color rgb="0x1D1D1D" alpha="100" stop="0" />
+                <color rgb="0x0B0B0B" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1328,12 +1328,12 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6U4etSOAUZk" displaytext="Las siglas IDEAM significan Instituto de Hidrología Meteorología y Estudios Ambientales." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6iVPyMUhBaK" displaytext="El ENA es el Estudio Nacional del Agua, donde se reporta la información sobre el estado y dinámica de las aguas del país." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6W9MQLPFO0l" displaytext="Para determinar el estado de recurso hídrico, el IDEAM en el documento del ENA, emplea indicadores como la aridez, regulación hídrica, rendimiento de sedimentos que permiten establecer el estado del recurso." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5mtamC3gLYt" displaytext="Dentro de los indicadores de intervención antrópica están los de presión de uso atmosférico y la cantidad de agua." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5xKX1BhQYbX" displaytext="La demanda hídrica es la extracción de agua de cualquier fuente con la finalidad de satisfacer las necesidades del consumo, la producción de los sectores económicos y los requerimientos de los ecosistemas." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5tUx6XH3f4J" displaytext="Los diferentes resultados obtenidos en la cuantificación de la huella hídrica del sector agropecuario no difieren significativamente entre cultivos y regiones de producción." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.66QOgODky5V" displaytext="Las siglas IDEAM significan Instituto de Hidrología Meteorología y Estudios Ambientales." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6daLkurPwov" displaytext="El ENA es el Estudio Nacional del Agua, donde se reporta la información sobre el estado y dinámica de las aguas del país." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6f5DBnbBsqG" displaytext="Para determinar el estado de recurso hídrico, el IDEAM en el documento del ENA, emplea indicadores como la aridez, regulación hídrica, rendimiento de sedimentos que permiten establecer el estado del recurso." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UgrbQpi9dQ" displaytext="Dentro de los indicadores de intervención antrópica están los de presión de uso atmosférico y la cantidad de agua." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5WrZObCK5Kp" displaytext="La demanda hídrica es la extracción de agua de cualquier fuente con la finalidad de satisfacer las necesidades del consumo, la producción de los sectores económicos y los requerimientos de los ecosistemas." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5uVkbwKUw9U" displaytext="Los diferentes resultados obtenidos en la cuantificación de la huella hídrica del sector agropecuario no difieren significativamente entre cultivos y regiones de producción." expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
