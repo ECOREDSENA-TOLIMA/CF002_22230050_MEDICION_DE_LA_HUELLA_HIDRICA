@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="104" viewBox="0 0 820 104">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_317189" data-name="Rectángulo 317189" width="543.684" height="66.563" transform="translate(0 0.001)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_317207" data-name="Rectángulo 317207" width="274.167" height="60.541" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_245334" data-name="Grupo 245334" transform="translate(-390 -8072)">
+    <g id="Grupo_244646" data-name="Grupo 244646" transform="translate(528 8091)">
+      <g id="Grupo_244630" data-name="Grupo 244630">
+        <g id="Grupo_244629" data-name="Grupo 244629" clip-path="url(#clip-path)">
+          <text id="HHG_" data-name="HHG =" transform="translate(0.774 41.064)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">HH</tspan><tspan y="0" letter-spacing="-0.025em">G </tspan><tspan y="0">=</tspan></text>
+        </g>
+      </g>
+      <text id="L" transform="translate(146.281 25.967)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">L</tspan></text>
+      <g id="Grupo_244632" data-name="Grupo 244632">
+        <g id="Grupo_244631" data-name="Grupo 244631" clip-path="url(#clip-path)">
+          <text id="C_max_-_C_nat" data-name="C max - C nat" transform="translate(87.42 59.204)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">C m</tspan><tspan y="0" letter-spacing="-0.025em">ax -</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> C</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> na</tspan><tspan y="0">t</tspan></text>
+        </g>
+      </g>
+      <path id="Trazado_246131" data-name="Trazado 246131" d="M85.306,32.683h0Z" fill="#12263f"/>
+      <line id="Línea_618" data-name="Línea 618" x2="135.72" transform="translate(85.305 32.683)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <text id="_" data-name="=" transform="translate(235.598 41.044)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">=</tspan></text>
+      <g id="Grupo_244634" data-name="Grupo 244634">
+        <g id="Grupo_244633" data-name="Grupo 244633" clip-path="url(#clip-path)">
+          <text id="Efl_C_efl_-_Extr_C_real" data-name="Efl * C efl - Extr * C real" transform="translate(287.823 19.945)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">E</tspan><tspan y="0" letter-spacing="-0.025em">f</tspan><tspan y="0" letter-spacing="-0.024em">l</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> * </tspan><tspan y="0" letter-spacing="-0.024em">C</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">f</tspan><tspan y="0" letter-spacing="-0.024em">l</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> -</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> Ext</tspan><tspan y="0" letter-spacing="-0.025em">r *</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> C </tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0">l</tspan></text>
+          <text id="C_max_-_C_nat-2" data-name="C max - C nat" transform="translate(338.104 59.186)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">C</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0" letter-spacing="-0.025em">ax -</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> C </tspan><tspan y="0" letter-spacing="-0.025em">na</tspan><tspan y="0">t</tspan></text>
+        </g>
+      </g>
+      <path id="Trazado_246132" data-name="Trazado 246132" d="M543.684,32.683,265.5,32.662Z" fill="#12263f"/>
+      <g id="Grupo_244636" data-name="Grupo 244636">
+        <g id="Grupo_244635" data-name="Grupo 244635" clip-path="url(#clip-path)">
+          <line id="Línea_619" data-name="Línea 619" x2="278.188" y2="0.021" transform="translate(265.496 32.662)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_317206" data-name="Rectángulo 317206" width="820" height="104" rx="52" transform="translate(390 8072)" fill="#fff"/>
+    <g id="Grupo_244650" data-name="Grupo 244650" transform="translate(663 8094)">
+      <g id="Grupo_244649" data-name="Grupo 244649">
+        <g id="Grupo_244648" data-name="Grupo 244648" clip-path="url(#clip-path-5)">
+          <text id="HHG_2" data-name="HHG =" transform="translate(0.774 35.043)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">HH</tspan><tspan y="0" letter-spacing="-0.025em">G </tspan><tspan y="0">=</tspan></text>
+          <text id="T_efl_-_T_real" data-name="T efl - T real" transform="translate(94.422 19.947)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">T e</tspan><tspan y="0" letter-spacing="-0.025em">f</tspan><tspan y="0" letter-spacing="-0.024em">l</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> - </tspan><tspan y="0" letter-spacing="-0.024em">T</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> r</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0">l</tspan></text>
+          <text id="T_max_-_T_nat" data-name="T max - T nat" transform="translate(88.758 53.187)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.024em">T m</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0" letter-spacing="-0.024em">x</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> - </tspan><tspan y="0" letter-spacing="-0.024em">T</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> n</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0">t</tspan></text>
+        </g>
+      </g>
+      <path id="Trazado_246135" data-name="Trazado 246135" d="M85.305,26.66h0Z" fill="#12263f"/>
+      <line id="Línea_622" data-name="Línea 622" x2="135.72" transform="translate(85.305 26.661)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <text id="_Efl" data-name="* Efl" transform="translate(226.802 35.021)" fill="#12263f" font-size="24" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.025em">*</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> E</tspan><tspan y="0" letter-spacing="-0.025em">f</tspan><tspan y="0">l</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="618.885" viewBox="0 0 1030 618.885">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_317019" data-name="Rectángulo 317019" width="1030" height="618.885" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_316995" data-name="Rectángulo 316995" width="1030.003" height="618.885" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_316996" data-name="Rectángulo 316996" width="362.197" height="215.149" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_316997" data-name="Rectángulo 316997" width="239.611" height="317.937" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_245333" data-name="Grupo 245333" transform="translate(-285 -1936.7)">
+    <g id="Grupo_244406" data-name="Grupo 244406" transform="translate(285 1936.7)">
+      <g id="Grupo_244405" data-name="Grupo 244405" clip-path="url(#clip-path)">
+        <g id="Grupo_244364" data-name="Grupo 244364">
+          <g id="Grupo_244363" data-name="Grupo 244363" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245712" data-name="Trazado 245712" d="M610.108,48.925H335.125a14.932,14.932,0,0,1-14.933-14.933V15.576A14.932,14.932,0,0,1,335.125.643H610.108A14.932,14.932,0,0,1,625.04,15.576V33.992a14.932,14.932,0,0,1-14.933,14.933" transform="translate(-10.319 -0.021)" fill="#144677"/>
+            <path id="Trazado_245713" data-name="Trazado 245713" d="M610.108,48.925H335.125a14.932,14.932,0,0,1-14.933-14.933V15.576A14.932,14.932,0,0,1,335.125.643H610.108A14.932,14.932,0,0,1,625.04,15.576V33.992A14.932,14.932,0,0,1,610.108,48.925Z" transform="translate(-10.319 -0.021)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1.286"/>
+          </g>
+        </g>
+        <text id="Demanda_Extracción_de_agua_Uso_" data-name="Demanda = Extracción de agua = Uso " transform="translate(338.127 28.772)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.024em">D</tspan><tspan y="0" letter-spacing="-0.025em">e</tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0" letter-spacing="-0.025em">anda = </tspan><tspan y="0" letter-spacing="-0.024em">Ext</tspan><tspan y="0" letter-spacing="-0.039em">r</tspan><tspan y="0" letter-spacing="-0.025em">acción de a</tspan><tspan y="0" letter-spacing="-0.024em">gu</tspan><tspan y="0" letter-spacing="-0.025em">a = Uso</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244372" data-name="Grupo 244372">
+          <g id="Grupo_244371" data-name="Grupo 244371" clip-path="url(#clip-path-2)">
+            <line id="Línea_609" data-name="Línea 609" x2="709.266" transform="translate(108.35 73.486)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <g id="Grupo_244367" data-name="Grupo 244367" transform="translate(636.127 338.241)" opacity="0.66">
+              <g id="Grupo_244366" data-name="Grupo 244366">
+                <g id="Grupo_244365" data-name="Grupo 244365" clip-path="url(#clip-path-4)">
+                  <path id="Trazado_245714" data-name="Trazado 245714" d="M1007.084,564.653H669.735a12.461,12.461,0,0,1-12.424-12.424v-190.3A12.461,12.461,0,0,1,669.735,349.5h337.349a12.461,12.461,0,0,1,12.424,12.424v190.3a12.461,12.461,0,0,1-12.424,12.424" transform="translate(-657.311 -349.505)" fill="#baeaff"/>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_244370" data-name="Grupo 244370" transform="translate(165.755 300.948)" opacity="0.49">
+              <g id="Grupo_244369" data-name="Grupo 244369">
+                <g id="Grupo_244368" data-name="Grupo 244368" clip-path="url(#clip-path-5)">
+                  <path id="Trazado_245715" data-name="Trazado 245715" d="M399.349,628.907H182.812a11.571,11.571,0,0,1-11.537-11.537V322.507a11.571,11.571,0,0,1,11.537-11.537H399.349a11.571,11.571,0,0,1,11.537,11.537V617.37a11.571,11.571,0,0,1-11.537,11.537" transform="translate(-171.275 -310.97)" fill="#a9c0cd"/>
+                </g>
+              </g>
+            </g>
+            <path id="Trazado_245716" data-name="Trazado 245716" d="M237.425,377.727H99.767a11.614,11.614,0,0,1-11.613-11.613V340.266a11.613,11.613,0,0,1,11.613-11.613H237.425a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-2.841 -10.592)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_servicios_" data-name="Sector servicios " transform="translate(113.756 346.607)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> se</tspan><tspan y="0" letter-spacing="-0.016em">r</tspan><tspan y="0" letter-spacing="-0.025em">v</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244374" data-name="Grupo 244374">
+          <g id="Grupo_244373" data-name="Grupo 244373" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245717" data-name="Trazado 245717" d="M237.425,458.519H99.767a11.613,11.613,0,0,1-11.613-11.613V421.058a11.613,11.613,0,0,1,11.613-11.613H237.425a11.613,11.613,0,0,1,11.613,11.613v25.847a11.613,11.613,0,0,1-11.613,11.613" transform="translate(-2.841 -13.196)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_piscícola_" data-name="Sector piscícola " transform="translate(113.768 424.795)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" letter-spacing="-0.024em"> </tspan><tspan y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.024em">is</tspan><tspan y="0" letter-spacing="-0.025em">cíco</tspan><tspan y="0" letter-spacing="-0.024em">la</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244376" data-name="Grupo 244376">
+          <g id="Grupo_244375" data-name="Grupo 244375" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245718" data-name="Trazado 245718" d="M237.425,539.312H99.767A11.614,11.614,0,0,1,88.154,527.7V501.851a11.613,11.613,0,0,1,11.613-11.613H237.425a11.613,11.613,0,0,1,11.613,11.613V527.7a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-2.841 -15.799)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_generación_" data-name="Sector generación " transform="translate(106.582 502.984)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" letter-spacing="-0.024em"> </tspan><tspan y="0" letter-spacing="-0.025em">g</tspan><tspan y="0" letter-spacing="-0.024em">ene</tspan><tspan y="0" letter-spacing="-0.044em">r</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">ó</tspan><tspan y="0" letter-spacing="-0.024em">n</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244378" data-name="Grupo 244378">
+          <g id="Grupo_244377" data-name="Grupo 244377" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245719" data-name="Trazado 245719" d="M237.425,620.1H99.767A11.614,11.614,0,0,1,88.154,608.49V582.643A11.613,11.613,0,0,1,99.767,571.03H237.425a11.613,11.613,0,0,1,11.613,11.613V608.49A11.614,11.614,0,0,1,237.425,620.1" transform="translate(-2.841 -18.403)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_hidrocarburos_" data-name="Sector hidrocarburos " transform="translate(97.364 581.171)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> hid</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">oc</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.025em">rbu</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0" letter-spacing="-0.024em">s</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244380" data-name="Grupo 244380">
+          <g id="Grupo_244379" data-name="Grupo 244379" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245720" data-name="Trazado 245720" d="M485.015,377.727H347.357a11.614,11.614,0,0,1-11.613-11.613V340.266a11.613,11.613,0,0,1,11.613-11.613H485.015a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-10.82 -10.592)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_pecuario_" data-name="Sector pecuario " transform="translate(354.031 346.606)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" letter-spacing="-0.024em"> </tspan><tspan y="0" letter-spacing="-0.025em">p</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">cu</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0" letter-spacing="-0.024em">i</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244382" data-name="Grupo 244382">
+          <g id="Grupo_244381" data-name="Grupo 244381" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245721" data-name="Trazado 245721" d="M485.015,458.544H347.357a11.614,11.614,0,0,1-11.613-11.613V421.083a11.613,11.613,0,0,1,11.613-11.613H485.015a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-10.82 -13.196)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_agrícola_" data-name="Sector agrícola " transform="translate(356.277 424.818)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> a</tspan><tspan y="0" letter-spacing="-0.025em">gríco</tspan><tspan y="0" letter-spacing="-0.024em">la</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244384" data-name="Grupo 244384">
+          <g id="Grupo_244383" data-name="Grupo 244383" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245722" data-name="Trazado 245722" d="M485.015,539.361H347.357a11.614,11.614,0,0,1-11.613-11.613V501.9a11.613,11.613,0,0,1,11.613-11.613H485.015A11.613,11.613,0,0,1,496.628,501.9v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-10.82 -15.801)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_industrial" data-name="Sector industrial" transform="translate(352.415 503.031)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.024em"> ind</tspan><tspan y="0" letter-spacing="-0.025em">u</tspan><tspan y="0" letter-spacing="-0.024em">st</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0" letter-spacing="-0.024em">ia</tspan><tspan y="0">l</tspan></text>
+        <g id="Grupo_244386" data-name="Grupo 244386">
+          <g id="Grupo_244385" data-name="Grupo 244385" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245723" data-name="Trazado 245723" d="M485.015,620.178H347.357a11.614,11.614,0,0,1-11.613-11.613V582.717A11.613,11.613,0,0,1,347.357,571.1H485.015a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-10.82 -18.405)" fill="#a5d6a7"/>
+          </g>
+        </g>
+        <text id="Sector_minero_" data-name="Sector minero " transform="translate(359.538 581.244)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.025em">S</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" letter-spacing="-0.024em"> </tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">ine</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244388" data-name="Grupo 244388">
+          <g id="Grupo_244387" data-name="Grupo 244387" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245724" data-name="Trazado 245724" d="M374.019,275.187H209.374a11.73,11.73,0,0,1-11.729-11.73V238.634A11.729,11.729,0,0,1,209.374,226.9H374.019a11.73,11.73,0,0,1,11.73,11.729v24.822a11.731,11.731,0,0,1-11.73,11.73" transform="translate(-6.37 -7.313)" fill="#144677"/>
+          </g>
+        </g>
+        <text id="Cadenas_de_uso" data-name="Cadenas de uso" transform="translate(232.712 247.741)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">Cadenas d</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em"> </tspan><tspan y="0" letter-spacing="-0.024em">u</tspan><tspan y="0" letter-spacing="-0.025em">s</tspan><tspan y="0">o</tspan></text>
+        <g id="Grupo_244390" data-name="Grupo 244390">
+          <g id="Grupo_244389" data-name="Grupo 244389" clip-path="url(#clip-path-2)">
+            <line id="Línea_610" data-name="Línea 610" y2="436.034" transform="translate(817.616 74.215)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <path id="Trazado_245725" data-name="Trazado 245725" d="M924.033,375.326H759.388a11.73,11.73,0,0,1-11.729-11.73V338.773a11.729,11.729,0,0,1,11.729-11.729H924.033a11.73,11.73,0,0,1,11.73,11.729V363.6a11.731,11.731,0,0,1-11.73,11.73" transform="translate(-24.095 -10.54)" fill="#baeaff"/>
+            <path id="Rectángulo_317007" data-name="Rectángulo 317007" d="M12.121,0H175.984A12.12,12.12,0,0,1,188.1,12.12V36.162a12.12,12.12,0,0,1-12.12,12.12H12.121A12.121,12.121,0,0,1,0,36.161V12.121A12.121,12.121,0,0,1,12.121,0Z" transform="translate(723.564 316.504)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="Retorno_" data-name="Retorno " transform="translate(791.732 344.653)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">Re</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">or</tspan><tspan y="0" letter-spacing="-0.024em">n</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244392" data-name="Grupo 244392">
+          <g id="Grupo_244391" data-name="Grupo 244391" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245726" data-name="Trazado 245726" d="M773.446,473.036H635.788a11.614,11.614,0,0,1-11.613-11.613V435.575a11.613,11.613,0,0,1,11.613-11.613H773.446a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-20.116 -13.663)" fill="#baeaff"/>
+            <rect id="Rectángulo_317009" data-name="Rectángulo 317009" width="160.884" height="49.074" rx="12" transform="translate(604.06 410.299)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="Pérdidas_" data-name="Pérdidas " transform="translate(655.558 438.843)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.031em">P</tspan><tspan y="0" letter-spacing="-0.024em">é</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.024em">didas</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244394" data-name="Grupo 244394">
+          <g id="Grupo_244393" data-name="Grupo 244393" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245727" data-name="Trazado 245727" d="M910.677,613.523H771.031a15.9,15.9,0,0,1-15.9-15.9V543.136a15.9,15.9,0,0,1,15.9-15.9H910.677a15.9,15.9,0,0,1,15.9,15.9v54.491a15.9,15.9,0,0,1-15.9,15.9" transform="translate(-24.336 -16.992)" fill="#baeaff"/>
+            <path id="Rectángulo_317011" data-name="Rectángulo 317011" d="M16.425,0H155.013a16.426,16.426,0,0,1,16.426,16.426V69.858a16.425,16.425,0,0,1-16.425,16.425H16.425A16.425,16.425,0,0,1,0,69.858V16.425A16.425,16.425,0,0,1,16.425,0Z" transform="translate(730.798 510.249)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="Descargas_por_agua_" data-name="Descargas por agua " transform="translate(751.032 538.817)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">Des</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.025em">g</tspan><tspan y="0" letter-spacing="-0.024em">as </tspan><tspan y="0" letter-spacing="-0.025em">por </tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.025em">gu</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0"> </tspan></text>
+        <text id="turbinada_y_caudales_" data-name="turbinada y caudales " transform="translate(748.91 557.398)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">t</tspan><tspan y="0" letter-spacing="-0.025em">urb</tspan><tspan y="0" letter-spacing="-0.024em">inada</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.025em"> y</tspan><tspan y="0" letter-spacing="-0.024em"> </tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">a</tspan><tspan y="0" letter-spacing="-0.025em">u</tspan><tspan y="0" letter-spacing="-0.024em">dales</tspan><tspan y="0"> </tspan></text>
+        <text id="de_exceso" data-name="de exceso" transform="translate(783.255 575.98)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.024em">de e</tspan><tspan y="0" letter-spacing="-0.034em">x</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">es</tspan><tspan y="0">o</tspan></text>
+        <g id="Grupo_244396" data-name="Grupo 244396">
+          <g id="Grupo_244395" data-name="Grupo 244395" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245728" data-name="Trazado 245728" d="M1046.832,472.654H909.174a11.614,11.614,0,0,1-11.613-11.613V435.193a11.613,11.613,0,0,1,11.613-11.613h137.658a11.613,11.613,0,0,1,11.613,11.613v25.847a11.614,11.614,0,0,1-11.613,11.613" transform="translate(-28.926 -13.651)" fill="#baeaff"/>
+            <rect id="Rectángulo_317013" data-name="Rectángulo 317013" width="160.884" height="49.074" rx="12" transform="translate(868.635 409.929)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="Vertimientos" transform="translate(907.23 438.474)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.046em">V</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0">r</tspan><tspan y="0" letter-spacing="-0.024em">ti</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0" letter-spacing="-0.024em">ien</tspan><tspan y="0" letter-spacing="-0.034em">t</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0">s</tspan></text>
+        <g id="Grupo_244398" data-name="Grupo 244398">
+          <g id="Grupo_244397" data-name="Grupo 244397" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245729" data-name="Trazado 245729" d="M933.689,174.245H747.784a15.4,15.4,0,0,1-15.4-15.4V117.417a15.4,15.4,0,0,1,15.4-15.4H933.689a15.4,15.4,0,0,1,15.4,15.4v41.429a15.4,15.4,0,0,1-15.4,15.4" transform="translate(-23.603 -3.288)" fill="#00574f"/>
+          </g>
+        </g>
+        <text id="Uso_de_agua_para" data-name="Uso de agua para" transform="translate(760.022 120.271)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">Uso de a</tspan><tspan y="0" letter-spacing="-0.024em">gu</tspan><tspan y="0" letter-spacing="-0.025em">a </tspan><tspan y="0" letter-spacing="-0.024em">p</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0" letter-spacing="-0.039em">r</tspan><tspan y="0">a</tspan></text>
+        <text id="satisfacción_directa_de" data-name="satisfacción directa de" transform="translate(742.478 138.852)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">sa</tspan><tspan y="0" letter-spacing="-0.024em">t</tspan><tspan y="0" letter-spacing="-0.025em">isfacción di</tspan><tspan y="0" letter-spacing="-0.034em">r</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">c</tspan><tspan y="0" letter-spacing="-0.024em">t</tspan><tspan y="0" letter-spacing="-0.025em">a d</tspan><tspan y="0">e</tspan></text>
+        <text id="las_necesidades_humanas" data-name="las necesidades humanas" transform="translate(731.747 157.433)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">las necesidad</tspan><tspan y="0" letter-spacing="-0.024em">e</tspan><tspan y="0" letter-spacing="-0.025em">s </tspan><tspan y="0" letter-spacing="-0.024em">hum</tspan><tspan y="0" letter-spacing="-0.025em">ana</tspan><tspan y="0">s</tspan></text>
+        <g id="Grupo_244400" data-name="Grupo 244400">
+          <g id="Grupo_244399" data-name="Grupo 244399" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245730" data-name="Trazado 245730" d="M924,275.187H759.351a11.73,11.73,0,0,1-11.729-11.73V238.634A11.729,11.729,0,0,1,759.351,226.9H924a11.73,11.73,0,0,1,11.73,11.729v24.822A11.731,11.731,0,0,1,924,275.187" transform="translate(-24.094 -7.313)" fill="#144677"/>
+          </g>
+        </g>
+        <text id="Uso_doméstico_" data-name="Uso doméstico " transform="translate(766.287 247.741)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">Uso do</tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0" letter-spacing="-0.025em">és</tspan><tspan y="0" letter-spacing="-0.024em">t</tspan><tspan y="0" letter-spacing="-0.025em">ico</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244402" data-name="Grupo 244402">
+          <g id="Grupo_244401" data-name="Grupo 244401" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245731" data-name="Trazado 245731" d="M707.3,422.8V399.46H971.256V422.8" transform="translate(-22.795 -12.874)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <line id="Línea_611" data-name="Línea 611" x2="230.761" transform="translate(405.366 537.852)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <path id="Trazado_245732" data-name="Trazado 245732" d="M643.756,563.084l13.118-7.574-13.118-7.574" transform="translate(-20.747 -17.659)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_612" data-name="Línea 612" y1="103.864" transform="translate(285.56 195.264)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <path id="Trazado_245733" data-name="Trazado 245733" d="M466.351,50.533v146.36H111.959V75.844" transform="translate(-3.608 -1.629)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10 10"/>
+            <path id="Trazado_245734" data-name="Trazado 245734" d="M201.3,174.245H15.4A15.4,15.4,0,0,1,0,158.847V117.417a15.4,15.4,0,0,1,15.4-15.4H201.3a15.4,15.4,0,0,1,15.4,15.4v41.429a15.4,15.4,0,0,1-15.4,15.4" transform="translate(0 -3.288)" fill="#00574f"/>
+          </g>
+        </g>
+        <text id="Uso_de_agua_como" data-name="Uso de agua como" transform="translate(47.114 129.561)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">Uso de a</tspan><tspan y="0" letter-spacing="-0.024em">gu</tspan><tspan y="0" letter-spacing="-0.025em">a co</tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0">o</tspan></text>
+        <text id="insumo_" data-name="insumo " transform="translate(82 148.142)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">ins</tspan><tspan y="0" letter-spacing="-0.024em">um</tspan><tspan y="0" letter-spacing="-0.025em">o</tspan><tspan y="0"> </tspan></text>
+        <g id="Grupo_244404" data-name="Grupo 244404">
+          <g id="Grupo_244403" data-name="Grupo 244403" clip-path="url(#clip-path-2)">
+            <path id="Trazado_245735" data-name="Trazado 245735" d="M567.5,174.384H381.591a15.4,15.4,0,0,1-15.4-15.4V117.556a15.4,15.4,0,0,1,15.4-15.4H567.5a15.4,15.4,0,0,1,15.4,15.4v41.429a15.4,15.4,0,0,1-15.4,15.4" transform="translate(-11.802 -3.292)" fill="#00574f"/>
+          </g>
+        </g>
+        <text id="Uso_de_agua_como-2" data-name="Uso de agua como" transform="translate(401.505 129.696)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.025em">Uso de a</tspan><tspan y="0" letter-spacing="-0.024em">gu</tspan><tspan y="0" letter-spacing="-0.025em">a co</tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0">o</tspan></text>
+        <text id="materia_prima_" data-name="materia prima " transform="translate(414.822 148.277)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.024em">m</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0" letter-spacing="-0.024em">ter</tspan><tspan y="0" letter-spacing="-0.025em">ia </tspan><tspan y="0" letter-spacing="-0.024em">pr</tspan><tspan y="0" letter-spacing="-0.025em">i</tspan><tspan y="0" letter-spacing="-0.024em">m</tspan><tspan y="0" letter-spacing="-0.025em">a</tspan><tspan y="0"> </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

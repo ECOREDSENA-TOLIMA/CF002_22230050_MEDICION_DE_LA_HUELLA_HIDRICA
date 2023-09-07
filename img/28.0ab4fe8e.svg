@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="867.395" height="58.477" viewBox="0 0 867.395 58.477">
+  <g id="Grupo_245496" data-name="Grupo 245496" transform="translate(2987 1212.9)">
+    <path id="Trazado_246997" data-name="Trazado 246997" d="M1170.4,268.158H323a10,10,0,0,1-10-10V219.681a10,10,0,0,1,10-10h847.4a10,10,0,0,1,10,10v38.477a10,10,0,0,1-10,10" transform="translate(-3300 -1422.581)" fill="#fff"/>
+    <g id="Grupo_245495" data-name="Grupo 245495">
+      <line id="Línea_716" data-name="Línea 716" x2="174.06" transform="translate(-2611.948 -1183.718)" fill="#fff"/>
+      <line id="Línea_717" data-name="Línea 717" x2="174.06" transform="translate(-2611.948 -1183.718)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.142"/>
+      <text id="HHP" transform="translate(-2668.128 -1179.17)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">HHP</tspan></text>
+      <text id="_" data-name=" " transform="translate(-2629.238 -1179.17)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0"> </tspan></text>
+      <text id="_2" data-name="=" transform="translate(-2624.306 -1179.17)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">=</tspan></text>
+      <text id="HH_prod_s_" data-name="HH prod (s)" transform="translate(-2538.032 -1191.317)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">HH prod (s)</tspan></text>
+      <text id="P_p_" data-name="P (p)" transform="translate(-2542.16 -1164.301)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" letter-spacing="-0.037em">P</tspan><tspan y="0" xml:space="preserve"> (p)</tspan></text>
+      <text id="k" transform="translate(-2586.788 -1197.244)" font-size="13.7" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">k</tspan></text>
+      <text id="s" transform="translate(-2586.788 -1186.969)" font-size="13.7" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">s</tspan></text>
+      <text id="_1" data-name="∑   = 1" transform="translate(-2601.672 -1191.309)" font-size="18.267" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0" xml:space="preserve">∑   = 1</tspan></text>
+    </g>
+  </g>
+</svg>
